@@ -1,0 +1,6 @@
+condicion,n,corr_grilla_llegada,pos_promedio_p1,remontada_desde_p11,puestos_con_evento,puestos_sin_evento
+Seco,2560,0.754,1.88,3.06,,
+Lluvia,367,0.682,3.1,3.57,,
+Bandera Roja — P1-P5,74,,,,-1.18,-0.7
+Bandera Roja — P6-P10,69,,,,0.86,-0.32
+Bandera Roja — P11+,126,,,,3.6,3.08

@@ -1,0 +1,174 @@
+temporada,ronda,nombre_carrera,id_circuito,nombre_circuito,fecha,hora,fuente
+2018,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2018-03-25,05:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,2,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2018-04-08,15:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,3,Chinese Grand Prix,shanghai,Shanghai International Circuit,2018-04-15,06:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2018-04-29,12:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,5,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2018-05-13,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,6,Monaco Grand Prix,monaco,Circuit de Monaco,2018-05-27,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2018-06-10,18:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,8,French Grand Prix,ricard,Circuit Paul Ricard,2018-06-24,14:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,9,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2018-07-01,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,10,British Grand Prix,silverstone,Silverstone Circuit,2018-07-08,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,11,German Grand Prix,hockenheimring,Hockenheimring,2018-07-22,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,12,Hungarian Grand Prix,hungaroring,Hungaroring,2018-07-29,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2018-08-26,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2018-09-02,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2018-09-16,12:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,16,Russian Grand Prix,sochi,Sochi Autodrom,2018-09-30,11:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,17,Japanese Grand Prix,suzuka,Suzuka Circuit,2018-10-07,05:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,18,United States Grand Prix,americas,Circuit of the Americas,2018-10-21,18:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,19,Mexican Grand Prix,rodriguez,Autodromo Hermanos Rodriguez,2018-10-28,19:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,20,Brazilian Grand Prix,interlagos,Autodromo Jose Carlos Pace,2018-11-11,17:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2018,21,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2018-11-25,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2019-03-17,05:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,2,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2019-03-31,15:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,3,Chinese Grand Prix,shanghai,Shanghai International Circuit,2019-04-14,06:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2019-04-28,12:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,5,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2019-05-12,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,6,Monaco Grand Prix,monaco,Circuit de Monaco,2019-05-26,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,7,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2019-06-09,18:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,8,French Grand Prix,ricard,Circuit Paul Ricard,2019-06-23,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,9,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2019-06-30,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,10,British Grand Prix,silverstone,Silverstone Circuit,2019-07-14,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,11,German Grand Prix,hockenheimring,Hockenheimring,2019-07-28,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,12,Hungarian Grand Prix,hungaroring,Hungaroring,2019-08-04,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2019-09-01,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2019-09-08,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2019-09-22,12:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,16,Russian Grand Prix,sochi,Sochi Autodrom,2019-09-29,11:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,17,Japanese Grand Prix,suzuka,Suzuka Circuit,2019-10-13,05:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,18,Mexican Grand Prix,rodriguez,Autodromo Hermanos Rodriguez,2019-10-27,19:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,19,United States Grand Prix,americas,Circuit of the Americas,2019-11-03,19:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,20,Brazilian Grand Prix,interlagos,Autodromo Jose Carlos Pace,2019-11-17,17:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2019,21,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2019-12-01,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,1,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2020-07-05,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,2,Styrian Grand Prix,red_bull_ring,Red Bull Ring,2020-07-12,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,3,Hungarian Grand Prix,hungaroring,Hungaroring,2020-07-19,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,4,British Grand Prix,silverstone,Silverstone Circuit,2020-08-02,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,5,70th Anniversary Grand Prix,silverstone,Silverstone Circuit,2020-08-09,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,6,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2020-08-16,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,7,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2020-08-30,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,8,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2020-09-06,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,9,Tuscan Grand Prix,mugello,Autodromo Internazionale del Mugello,2020-09-13,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,10,Russian Grand Prix,sochi,Sochi Autodrom,2020-09-27,11:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,11,Eifel Grand Prix,nurburgring,Nurburgring,2020-10-11,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,12,Portuguese Grand Prix,portimao,Autodromo Internacional do Algarve,2020-10-25,12:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,13,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2020-11-01,12:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,14,Turkish Grand Prix,istanbul,Istanbul Park,2020-11-15,10:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,15,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2020-11-29,14:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,16,Sakhir Grand Prix,bahrain,Bahrain International Circuit,2020-12-06,17:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2020,17,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2020-12-13,13:10:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2021-03-28,15:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,2,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2021-04-18,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,3,Portuguese Grand Prix,portimao,Autodromo Internacional do Algarve,2021-05-02,14:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,4,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2021-05-09,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,5,Monaco Grand Prix,monaco,Circuit de Monaco,2021-05-23,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,6,Azerbaijan Grand Prix,baku,Baku City Circuit,2021-06-06,12:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,7,French Grand Prix,ricard,Circuit Paul Ricard,2021-06-20,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,8,Styrian Grand Prix,red_bull_ring,Red Bull Ring,2021-06-27,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,9,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2021-07-04,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,10,British Grand Prix,silverstone,Silverstone Circuit,2021-07-18,14:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,11,Hungarian Grand Prix,hungaroring,Hungaroring,2021-08-01,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,12,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2021-08-29,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,13,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2021-09-05,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2021-09-12,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,15,Russian Grand Prix,sochi,Sochi Autodrom,2021-09-26,12:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,16,Turkish Grand Prix,istanbul,Istanbul Park,2021-10-10,12:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,17,United States Grand Prix,americas,Circuit of the Americas,2021-10-24,19:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,18,Mexico City Grand Prix,rodriguez,Autodromo Hermanos Rodriguez,2021-11-07,19:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,19,Sao Paulo Grand Prix,interlagos,Autodromo Jose Carlos Pace,2021-11-14,17:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,20,Qatar Grand Prix,losail,Losail International Circuit,2021-11-21,14:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,21,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2021-12-05,17:30:00Z,Calendario Oficial FIA Formula 1 World Championship
+2021,22,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2021-12-12,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2022-03-20,15:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2022-03-27,17:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2022-04-10,05:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,4,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2022-04-24,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,5,Miami Grand Prix,miami,Miami International Autodrome,2022-05-08,19:30:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,6,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2022-05-22,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,7,Monaco Grand Prix,monaco,Circuit de Monaco,2022-05-29,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,8,Azerbaijan Grand Prix,baku,Baku City Circuit,2022-06-12,11:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2022-06-19,18:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,10,British Grand Prix,silverstone,Silverstone Circuit,2022-07-03,14:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2022-07-10,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,12,French Grand Prix,ricard,Circuit Paul Ricard,2022-07-24,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,13,Hungarian Grand Prix,hungaroring,Hungaroring,2022-07-31,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2022-08-28,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2022-09-04,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2022-09-11,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,17,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2022-10-02,12:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,18,Japanese Grand Prix,suzuka,Suzuka Circuit,2022-10-09,05:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,19,United States Grand Prix,americas,Circuit of the Americas,2022-10-23,19:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,20,Mexico City Grand Prix,rodriguez,Autodromo Hermanos Rodriguez,2022-10-30,20:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,21,Sao Paulo Grand Prix,interlagos,Autodromo Jose Carlos Pace,2022-11-13,18:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2022,22,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2022-11-20,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2023-03-05,15:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2023-03-19,17:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2023-04-02,05:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,4,Azerbaijan Grand Prix,baku,Baku City Circuit,2023-04-30,11:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,5,Miami Grand Prix,miami,Miami International Autodrome,2023-05-07,19:30:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,6,Monaco Grand Prix,monaco,Circuit de Monaco,2023-05-28,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,7,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2023-06-04,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,8,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2023-06-18,18:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,9,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2023-07-02,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,10,British Grand Prix,silverstone,Silverstone Circuit,2023-07-09,14:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,11,Hungarian Grand Prix,hungaroring,Hungaroring,2023-07-23,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,12,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2023-07-30,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,13,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2023-08-27,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,14,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2023-09-03,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,15,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2023-09-17,12:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,16,Japanese Grand Prix,suzuka,Suzuka Circuit,2023-09-24,05:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,17,Qatar Grand Prix,losail,Losail International Circuit,2023-10-08,17:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,18,United States Grand Prix,americas,Circuit of the Americas,2023-10-22,19:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,19,Mexico City Grand Prix,rodriguez,Autodromo Hermanos Rodriguez,2023-10-29,20:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,20,Sao Paulo Grand Prix,interlagos,Autodromo Jose Carlos Pace,2023-11-05,17:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,21,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2023-11-19,06:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2023,22,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2023-11-26,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,1,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2024-03-02,15:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,2,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2024-03-09,17:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,3,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2024-03-24,04:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,4,Japanese Grand Prix,suzuka,Suzuka Circuit,2024-04-07,05:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,5,Chinese Grand Prix,shanghai,Shanghai International Circuit,2024-04-21,07:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,6,Miami Grand Prix,miami,Miami International Autodrome,2024-05-05,20:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2024-05-19,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,8,Monaco Grand Prix,monaco,Circuit de Monaco,2024-05-26,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,9,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2024-06-09,18:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,10,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2024-06-23,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2024-06-30,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,12,British Grand Prix,silverstone,Silverstone Circuit,2024-07-07,14:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,13,Hungarian Grand Prix,hungaroring,Hungaroring,2024-07-21,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,14,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2024-07-28,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2024-08-25,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2024-09-01,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2024-09-15,11:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2024-09-22,12:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,19,United States Grand Prix,americas,Circuit of the Americas,2024-10-20,19:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,20,Mexico City Grand Prix,rodriguez,Autodromo Hermanos Rodriguez,2024-10-27,20:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,21,Sao Paulo Grand Prix,interlagos,Autodromo Jose Carlos Pace,2024-11-03,17:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2024-11-23,06:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,23,Qatar Grand Prix,losail,Losail International Circuit,2024-12-01,17:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2024,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2024-12-08,13:00:00Z,Calendario Oficial FIA Formula 1 World Championship
+2025,1,Australian Grand Prix,albert_park,Albert Park Grand Prix Circuit,2025-03-16,04:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,2,Chinese Grand Prix,shanghai,Shanghai International Circuit,2025-03-23,07:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,3,Japanese Grand Prix,suzuka,Suzuka Circuit,2025-04-06,05:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,4,Bahrain Grand Prix,bahrain,Bahrain International Circuit,2025-04-13,15:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,5,Saudi Arabian Grand Prix,jeddah,Jeddah Corniche Circuit,2025-04-20,17:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,6,Miami Grand Prix,miami,Miami International Autodrome,2025-05-04,20:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,7,Emilia Romagna Grand Prix,imola,Autodromo Enzo e Dino Ferrari,2025-05-18,13:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,8,Monaco Grand Prix,monaco,Circuit de Monaco,2025-05-25,13:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,9,Spanish Grand Prix,catalunya,Circuit de Barcelona-Catalunya,2025-06-01,13:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,10,Canadian Grand Prix,villeneuve,Circuit Gilles Villeneuve,2025-06-15,18:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,11,Austrian Grand Prix,red_bull_ring,Red Bull Ring,2025-06-29,13:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,12,British Grand Prix,silverstone,Silverstone Circuit,2025-07-06,14:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,13,Belgian Grand Prix,spa,Circuit de Spa-Francorchamps,2025-07-27,13:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,14,Hungarian Grand Prix,hungaroring,Hungaroring,2025-08-03,13:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,15,Dutch Grand Prix,zandvoort,Circuit Park Zandvoort,2025-08-31,13:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,16,Italian Grand Prix,monza,Autodromo Nazionale di Monza,2025-09-07,13:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,17,Azerbaijan Grand Prix,baku,Baku City Circuit,2025-09-21,11:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,18,Singapore Grand Prix,marina_bay,Marina Bay Street Circuit,2025-10-05,12:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,19,United States Grand Prix,americas,Circuit of the Americas,2025-10-19,19:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,20,Mexico City Grand Prix,rodriguez,Autodromo Hermanos Rodriguez,2025-10-26,20:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,21,Sao Paulo Grand Prix,interlagos,Autodromo Jose Carlos Pace,2025-11-09,17:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,22,Las Vegas Grand Prix,vegas,Las Vegas Strip Street Circuit,2025-11-23,04:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,23,Qatar Grand Prix,losail,Losail International Circuit,2025-11-30,16:00:00,Calendario Oficial FIA Formula 1 World Championship
+2025,24,Abu Dhabi Grand Prix,yas_marina,Yas Marina Circuit,2025-12-07,13:00:00,Calendario Oficial FIA Formula 1 World Championship

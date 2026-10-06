@@ -1,0 +1,56 @@
+# =========================================
+# .gitignore para Proyecto Ciclo
+# IA aplicada a Diseño de Producto Digital
+# =========================================
+
+# Sistema operativo (macOS)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Entornos virtuales y dependencias de Python
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Variables de entorno y credenciales (claves de API, tokens, etc.)
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Node / Frontend (si se usa React, Next.js, Vite, etc.)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+build/
+
+# Archivos temporales de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos pesados / datasets masivos (descomentar o ajustar según necesidad)
+# *.zip
+# *.tar.gz
+# *.rar

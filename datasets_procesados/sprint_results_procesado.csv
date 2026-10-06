@@ -1,0 +1,481 @@
+temporada,ronda,id_piloto,nombre_piloto,constructor,posicion,puntos,vueltas,estado,fuente
+2021,10,max_verstappen,Max Verstappen,Red Bull,1,3,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,hamilton,Lewis Hamilton,Mercedes,2,2,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,bottas,Valtteri Bottas,Mercedes,3,1,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,leclerc,Charles Leclerc,Ferrari,4,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,norris,Lando Norris,McLaren,5,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,ricciardo,Daniel Ricciardo,McLaren,6,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,alonso,Fernando Alonso,Alpine F1 Team,7,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,vettel,Sebastian Vettel,Aston Martin,8,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,russell,George Russell,Williams,9,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,ocon,Esteban Ocon,Alpine F1 Team,10,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,sainz,Carlos Sainz,Ferrari,11,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,gasly,Pierre Gasly,AlphaTauri,12,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,raikkonen,Kimi Raikkonen,Alfa Romeo,13,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,stroll,Lance Stroll,Aston Martin,14,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,giovinazzi,Antonio Giovinazzi,Alfa Romeo,15,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,tsunoda,Yuki Tsunoda,AlphaTauri,16,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,latifi,Nicholas Latifi,Williams,17,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,mick_schumacher,Mick Schumacher,Haas F1 Team,18,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,mazepin,Nikita Mazepin,Haas F1 Team,19,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,10,perez,Sergio Perez,Red Bull,20,0,16,VIBRATIONS,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,bottas,Valtteri Bottas,Mercedes,1,3,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,max_verstappen,Max Verstappen,Red Bull,2,2,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,ricciardo,Daniel Ricciardo,McLaren,3,1,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,norris,Lando Norris,McLaren,4,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,hamilton,Lewis Hamilton,Mercedes,5,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,leclerc,Charles Leclerc,Ferrari,6,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,sainz,Carlos Sainz,Ferrari,7,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,giovinazzi,Antonio Giovinazzi,Alfa Romeo,8,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,perez,Sergio Perez,Red Bull,9,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,stroll,Lance Stroll,Aston Martin,10,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,alonso,Fernando Alonso,Alpine F1 Team,11,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,vettel,Sebastian Vettel,Aston Martin,12,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,ocon,Esteban Ocon,Alpine F1 Team,13,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,latifi,Nicholas Latifi,Williams,14,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,russell,George Russell,Williams,15,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,tsunoda,Yuki Tsunoda,AlphaTauri,16,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,mazepin,Nikita Mazepin,Haas F1 Team,17,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,kubica,Robert Kubica,Alfa Romeo,18,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,mick_schumacher,Mick Schumacher,Haas F1 Team,19,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,14,gasly,Pierre Gasly,AlphaTauri,20,0,0,ACCIDENT,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,bottas,Valtteri Bottas,Mercedes,1,3,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,max_verstappen,Max Verstappen,Red Bull,2,2,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,sainz,Carlos Sainz,Ferrari,3,1,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,perez,Sergio Perez,Red Bull,4,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,hamilton,Lewis Hamilton,Mercedes,5,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,norris,Lando Norris,McLaren,6,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,leclerc,Charles Leclerc,Ferrari,7,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,gasly,Pierre Gasly,AlphaTauri,8,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,ocon,Esteban Ocon,Alpine F1 Team,9,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,vettel,Sebastian Vettel,Aston Martin,10,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,ricciardo,Daniel Ricciardo,McLaren,11,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,alonso,Fernando Alonso,Alpine F1 Team,12,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,giovinazzi,Antonio Giovinazzi,Alfa Romeo,13,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,stroll,Lance Stroll,Aston Martin,14,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,tsunoda,Yuki Tsunoda,AlphaTauri,15,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,latifi,Nicholas Latifi,Williams,16,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,russell,George Russell,Williams,17,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,raikkonen,Kimi Raikkonen,Alfa Romeo,18,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,mick_schumacher,Mick Schumacher,Haas F1 Team,19,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2021,19,mazepin,Nikita Mazepin,Haas F1 Team,20,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,max_verstappen,Max Verstappen,Red Bull,1,8,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,leclerc,Charles Leclerc,Ferrari,2,7,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,perez,Sergio Perez,Red Bull,3,6,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,sainz,Carlos Sainz,Ferrari,4,5,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,norris,Lando Norris,McLaren,5,4,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,ricciardo,Daniel Ricciardo,McLaren,6,3,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,bottas,Valtteri Bottas,Alfa Romeo,7,2,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,kevin_magnussen,Kevin Magnussen,Haas F1 Team,8,1,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,alonso,Fernando Alonso,Alpine F1 Team,9,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,mick_schumacher,Mick Schumacher,Haas F1 Team,10,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,russell,George Russell,Mercedes,11,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,tsunoda,Yuki Tsunoda,AlphaTauri,12,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,vettel,Sebastian Vettel,Aston Martin,13,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,hamilton,Lewis Hamilton,Mercedes,14,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,stroll,Lance Stroll,Aston Martin,15,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,ocon,Esteban Ocon,Alpine F1 Team,16,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,gasly,Pierre Gasly,AlphaTauri,17,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,albon,Alexander Albon,Williams,18,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,latifi,Nicholas Latifi,Williams,19,0,21,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,4,zhou,Guanyu Zhou,Alfa Romeo,20,0,0,RETIRED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,max_verstappen,Max Verstappen,Red Bull,1,8,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,leclerc,Charles Leclerc,Ferrari,2,7,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,sainz,Carlos Sainz,Ferrari,3,6,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,russell,George Russell,Mercedes,4,5,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,perez,Sergio Perez,Red Bull,5,4,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,ocon,Esteban Ocon,Alpine F1 Team,6,3,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,kevin_magnussen,Kevin Magnussen,Haas F1 Team,7,2,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,hamilton,Lewis Hamilton,Mercedes,8,1,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,mick_schumacher,Mick Schumacher,Haas F1 Team,9,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,bottas,Valtteri Bottas,Alfa Romeo,10,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,norris,Lando Norris,McLaren,11,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,ricciardo,Daniel Ricciardo,McLaren,12,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,stroll,Lance Stroll,Aston Martin,13,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,zhou,Guanyu Zhou,Alfa Romeo,14,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,gasly,Pierre Gasly,AlphaTauri,15,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,albon,Alexander Albon,Williams,16,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,tsunoda,Yuki Tsunoda,AlphaTauri,17,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,latifi,Nicholas Latifi,Williams,18,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,vettel,Sebastian Vettel,Aston Martin,19,0,21,COLLISION DAMAGE,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,11,alonso,Fernando Alonso,Alpine F1 Team,20,0,0,ELECTRICAL,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,russell,George Russell,Mercedes,1,8,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,sainz,Carlos Sainz,Ferrari,2,7,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,hamilton,Lewis Hamilton,Mercedes,3,6,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,max_verstappen,Max Verstappen,Red Bull,4,5,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,perez,Sergio Perez,Red Bull,5,4,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,leclerc,Charles Leclerc,Ferrari,6,3,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,norris,Lando Norris,McLaren,7,2,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,kevin_magnussen,Kevin Magnussen,Haas F1 Team,8,1,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,vettel,Sebastian Vettel,Aston Martin,9,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,gasly,Pierre Gasly,AlphaTauri,10,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,ricciardo,Daniel Ricciardo,McLaren,11,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,mick_schumacher,Mick Schumacher,Haas F1 Team,12,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,zhou,Guanyu Zhou,Alfa Romeo,13,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,bottas,Valtteri Bottas,Alfa Romeo,14,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,tsunoda,Yuki Tsunoda,AlphaTauri,15,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,stroll,Lance Stroll,Aston Martin,16,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,ocon,Esteban Ocon,Alpine F1 Team,17,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,alonso,Fernando Alonso,Alpine F1 Team,18,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,latifi,Nicholas Latifi,Williams,19,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2022,21,albon,Alexander Albon,Williams,20,0,12,RETIRED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,perez,Sergio Perez,Red Bull,1,8,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,leclerc,Charles Leclerc,Ferrari,2,7,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,max_verstappen,Max Verstappen,Red Bull,3,6,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,russell,George Russell,Mercedes,4,5,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,sainz,Carlos Sainz,Ferrari,5,4,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,alonso,Fernando Alonso,Aston Martin,6,3,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,hamilton,Lewis Hamilton,Mercedes,7,2,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,stroll,Lance Stroll,Aston Martin,8,1,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,albon,Alexander Albon,Williams,9,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,piastri,Oscar Piastri,McLaren,10,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,kevin_magnussen,Kevin Magnussen,Haas F1 Team,11,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,zhou,Guanyu Zhou,Alfa Romeo,12,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,gasly,Pierre Gasly,Alpine F1 Team,13,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,de_vries,Nyck de Vries,AlphaTauri,14,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,hulkenberg,Nico Hulkenberg,Haas F1 Team,15,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,bottas,Valtteri Bottas,Alfa Romeo,16,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,norris,Lando Norris,McLaren,17,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,ocon,Esteban Ocon,Alpine F1 Team,18,0,17,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,tsunoda,Yuki Tsunoda,AlphaTauri,19,0,2,COLLISION DAMAGE,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,4,sargeant,Logan Sargeant,Williams,20,0,0,ACCIDENT,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,max_verstappen,Max Verstappen,Red Bull,1,8,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,perez,Sergio Perez,Red Bull,2,7,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,sainz,Carlos Sainz,Ferrari,3,6,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,stroll,Lance Stroll,Aston Martin,4,5,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,alonso,Fernando Alonso,Aston Martin,5,4,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,hulkenberg,Nico Hulkenberg,Haas F1 Team,6,3,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,ocon,Esteban Ocon,Alpine F1 Team,7,2,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,russell,George Russell,Mercedes,8,1,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,norris,Lando Norris,McLaren,9,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,hamilton,Lewis Hamilton,Mercedes,10,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,piastri,Oscar Piastri,McLaren,11,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,leclerc,Charles Leclerc,Ferrari,12,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,albon,Alexander Albon,Williams,13,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,kevin_magnussen,Kevin Magnussen,Haas F1 Team,14,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,gasly,Pierre Gasly,Alpine F1 Team,15,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,tsunoda,Yuki Tsunoda,AlphaTauri,16,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,de_vries,Nyck de Vries,AlphaTauri,17,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,sargeant,Logan Sargeant,Williams,18,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,zhou,Guanyu Zhou,Alfa Romeo,19,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,9,bottas,Valtteri Bottas,Alfa Romeo,20,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,max_verstappen,Max Verstappen,Red Bull,1,8,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,piastri,Oscar Piastri,McLaren,2,7,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,gasly,Pierre Gasly,Alpine F1 Team,3,6,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,sainz,Carlos Sainz,Ferrari,4,5,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,leclerc,Charles Leclerc,Ferrari,5,4,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,norris,Lando Norris,McLaren,6,3,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,hamilton,Lewis Hamilton,Mercedes,7,2,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,russell,George Russell,Mercedes,8,1,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,ocon,Esteban Ocon,Alpine F1 Team,9,0,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,ricciardo,Daniel Ricciardo,AlphaTauri,10,0,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,stroll,Lance Stroll,Aston Martin,11,0,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,albon,Alexander Albon,Williams,12,0,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,bottas,Valtteri Bottas,Alfa Romeo,13,0,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,kevin_magnussen,Kevin Magnussen,Haas F1 Team,14,0,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,zhou,Guanyu Zhou,Alfa Romeo,15,0,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,sargeant,Logan Sargeant,Williams,16,0,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,hulkenberg,Nico Hulkenberg,Haas F1 Team,17,0,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,tsunoda,Yuki Tsunoda,AlphaTauri,18,0,11,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,perez,Sergio Perez,Red Bull,19,0,8,COLLISION DAMAGE,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,12,alonso,Fernando Alonso,Aston Martin,20,0,2,ACCIDENT,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,piastri,Oscar Piastri,McLaren,1,8,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,max_verstappen,Max Verstappen,Red Bull,2,7,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,norris,Lando Norris,McLaren,3,6,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,russell,George Russell,Mercedes,4,5,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,hamilton,Lewis Hamilton,Mercedes,5,4,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,sainz,Carlos Sainz,Ferrari,6,3,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,albon,Alexander Albon,Williams,7,2,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,alonso,Fernando Alonso,Aston Martin,8,1,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,gasly,Pierre Gasly,Alpine F1 Team,9,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,bottas,Valtteri Bottas,Alfa Romeo,10,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,tsunoda,Yuki Tsunoda,AlphaTauri,11,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,leclerc,Charles Leclerc,Ferrari,12,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,stroll,Lance Stroll,Aston Martin,13,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,kevin_magnussen,Kevin Magnussen,Haas F1 Team,14,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,zhou,Guanyu Zhou,Alfa Romeo,15,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,hulkenberg,Nico Hulkenberg,Haas F1 Team,16,0,11,RETIRED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,ocon,Esteban Ocon,Alpine F1 Team,17,0,10,RETIRED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,perez,Sergio Perez,Red Bull,18,0,10,RETIRED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,sargeant,Logan Sargeant,Williams,19,0,2,RETIRED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,17,lawson,Liam Lawson,AlphaTauri,20,0,0,RETIRED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,max_verstappen,Max Verstappen,Red Bull,1,8,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,hamilton,Lewis Hamilton,Mercedes,2,7,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,leclerc,Charles Leclerc,Ferrari,3,6,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,norris,Lando Norris,McLaren,4,5,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,perez,Sergio Perez,Red Bull,5,4,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,sainz,Carlos Sainz,Ferrari,6,3,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,gasly,Pierre Gasly,Alpine F1 Team,7,2,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,russell,George Russell,Mercedes,8,1,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,albon,Alexander Albon,Williams,9,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,piastri,Oscar Piastri,McLaren,10,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,ocon,Esteban Ocon,Alpine F1 Team,11,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,ricciardo,Daniel Ricciardo,AlphaTauri,12,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,alonso,Fernando Alonso,Aston Martin,13,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,tsunoda,Yuki Tsunoda,AlphaTauri,14,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,hulkenberg,Nico Hulkenberg,Haas F1 Team,15,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,bottas,Valtteri Bottas,Alfa Romeo,16,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,zhou,Guanyu Zhou,Alfa Romeo,17,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,kevin_magnussen,Kevin Magnussen,Haas F1 Team,18,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,sargeant,Logan Sargeant,Williams,19,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,18,stroll,Lance Stroll,Aston Martin,20,0,16,BRAKES,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,max_verstappen,Max Verstappen,Red Bull,1,8,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,norris,Lando Norris,McLaren,2,7,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,perez,Sergio Perez,Red Bull,3,6,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,russell,George Russell,Mercedes,4,5,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,leclerc,Charles Leclerc,Ferrari,5,4,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,tsunoda,Yuki Tsunoda,AlphaTauri,6,3,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,hamilton,Lewis Hamilton,Mercedes,7,2,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,sainz,Carlos Sainz,Ferrari,8,1,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,ricciardo,Daniel Ricciardo,AlphaTauri,9,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,piastri,Oscar Piastri,McLaren,10,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,alonso,Fernando Alonso,Aston Martin,11,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,stroll,Lance Stroll,Aston Martin,12,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,gasly,Pierre Gasly,Alpine F1 Team,13,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,ocon,Esteban Ocon,Alpine F1 Team,14,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,albon,Alexander Albon,Williams,15,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,kevin_magnussen,Kevin Magnussen,Haas F1 Team,16,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,zhou,Guanyu Zhou,Alfa Romeo,17,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,hulkenberg,Nico Hulkenberg,Haas F1 Team,18,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,bottas,Valtteri Bottas,Alfa Romeo,19,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2023,20,sargeant,Logan Sargeant,Williams,20,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,max_verstappen,Max Verstappen,Red Bull,1,8,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,hamilton,Lewis Hamilton,Mercedes,2,7,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,perez,Sergio Perez,Red Bull,3,6,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,leclerc,Charles Leclerc,Ferrari,4,5,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,sainz,Carlos Sainz,Ferrari,5,4,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,norris,Lando Norris,McLaren,6,3,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,piastri,Oscar Piastri,McLaren,7,2,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,russell,George Russell,Mercedes,8,1,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,zhou,Guanyu Zhou,Sauber,9,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,kevin_magnussen,Kevin Magnussen,Haas F1 Team,10,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,ricciardo,Daniel Ricciardo,RB F1 Team,11,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,bottas,Valtteri Bottas,Sauber,12,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,ocon,Esteban Ocon,Alpine F1 Team,13,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,stroll,Lance Stroll,Aston Martin,14,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,gasly,Pierre Gasly,Alpine F1 Team,15,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,tsunoda,Yuki Tsunoda,RB F1 Team,16,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,albon,Alexander Albon,Williams,17,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,sargeant,Logan Sargeant,Williams,18,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,hulkenberg,Nico Hulkenberg,Haas F1 Team,19,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,5,alonso,Fernando Alonso,Aston Martin,20,0,17,RETIRED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,max_verstappen,Max Verstappen,Red Bull,1,8,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,leclerc,Charles Leclerc,Ferrari,2,7,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,perez,Sergio Perez,Red Bull,3,6,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,ricciardo,Daniel Ricciardo,RB F1 Team,4,5,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,sainz,Carlos Sainz,Ferrari,5,4,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,piastri,Oscar Piastri,McLaren,6,3,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,hulkenberg,Nico Hulkenberg,Haas F1 Team,7,2,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,tsunoda,Yuki Tsunoda,RB F1 Team,8,1,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,gasly,Pierre Gasly,Alpine F1 Team,9,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,sargeant,Logan Sargeant,Williams,10,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,zhou,Guanyu Zhou,Sauber,11,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,russell,George Russell,Mercedes,12,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,albon,Alexander Albon,Williams,13,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,bottas,Valtteri Bottas,Sauber,14,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,ocon,Esteban Ocon,Alpine F1 Team,15,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,hamilton,Lewis Hamilton,Mercedes,16,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,alonso,Fernando Alonso,Aston Martin,17,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,kevin_magnussen,Kevin Magnussen,Haas F1 Team,18,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,stroll,Lance Stroll,Aston Martin,19,0,1,RETIRED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,6,norris,Lando Norris,McLaren,20,0,0,RETIRED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,max_verstappen,Max Verstappen,Red Bull,1,8,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,piastri,Oscar Piastri,McLaren,2,7,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,norris,Lando Norris,McLaren,3,6,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,russell,George Russell,Mercedes,4,5,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,sainz,Carlos Sainz,Ferrari,5,4,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,hamilton,Lewis Hamilton,Mercedes,6,3,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,leclerc,Charles Leclerc,Ferrari,7,2,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,perez,Sergio Perez,Red Bull,8,1,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,kevin_magnussen,Kevin Magnussen,Haas F1 Team,9,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,stroll,Lance Stroll,Aston Martin,10,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,ocon,Esteban Ocon,Alpine F1 Team,11,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,gasly,Pierre Gasly,Alpine F1 Team,12,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,tsunoda,Yuki Tsunoda,RB F1 Team,13,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,ricciardo,Daniel Ricciardo,RB F1 Team,14,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,alonso,Fernando Alonso,Aston Martin,15,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,sargeant,Logan Sargeant,Williams,16,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,albon,Alexander Albon,Williams,17,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,bottas,Valtteri Bottas,Sauber,18,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,hulkenberg,Nico Hulkenberg,Haas F1 Team,19,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,11,zhou,Guanyu Zhou,Sauber,20,0,23,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,max_verstappen,Max Verstappen,Red Bull,1,8,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,sainz,Carlos Sainz,Ferrari,2,7,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,norris,Lando Norris,McLaren,3,6,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,leclerc,Charles Leclerc,Ferrari,4,5,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,russell,George Russell,Mercedes,5,4,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,hamilton,Lewis Hamilton,Mercedes,6,3,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,kevin_magnussen,Kevin Magnussen,Haas F1 Team,7,2,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,hulkenberg,Nico Hulkenberg,Haas F1 Team,8,1,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,perez,Sergio Perez,Red Bull,9,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,piastri,Oscar Piastri,McLaren,10,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,tsunoda,Yuki Tsunoda,RB F1 Team,11,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,colapinto,Franco Colapinto,Williams,12,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,stroll,Lance Stroll,Aston Martin,13,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,gasly,Pierre Gasly,Alpine F1 Team,14,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,ocon,Esteban Ocon,Alpine F1 Team,15,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,lawson,Liam Lawson,RB F1 Team,16,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,albon,Alexander Albon,Williams,17,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,alonso,Fernando Alonso,Aston Martin,18,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,zhou,Guanyu Zhou,Sauber,19,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,19,bottas,Valtteri Bottas,Sauber,20,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,norris,Lando Norris,McLaren,1,8,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,piastri,Oscar Piastri,McLaren,2,7,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,leclerc,Charles Leclerc,Ferrari,3,6,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,max_verstappen,Max Verstappen,Red Bull,4,5,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,sainz,Carlos Sainz,Ferrari,5,4,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,russell,George Russell,Mercedes,6,3,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,gasly,Pierre Gasly,Alpine F1 Team,7,2,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,perez,Sergio Perez,Red Bull,8,1,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,lawson,Liam Lawson,RB F1 Team,9,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,albon,Alexander Albon,Williams,10,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,hamilton,Lewis Hamilton,Mercedes,11,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,colapinto,Franco Colapinto,Williams,12,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,ocon,Esteban Ocon,Alpine F1 Team,13,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,bearman,Oliver Bearman,Haas F1 Team,14,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,tsunoda,Yuki Tsunoda,RB F1 Team,15,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,bottas,Valtteri Bottas,Sauber,16,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,zhou,Guanyu Zhou,Sauber,17,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,alonso,Fernando Alonso,Aston Martin,18,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,stroll,Lance Stroll,Aston Martin,19,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,21,hulkenberg,Nico Hulkenberg,Haas F1 Team,20,0,19,EXHAUST,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,piastri,Oscar Piastri,McLaren,1,8,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,norris,Lando Norris,McLaren,2,7,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,russell,George Russell,Mercedes,3,6,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,sainz,Carlos Sainz,Ferrari,4,5,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,leclerc,Charles Leclerc,Ferrari,5,4,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,hamilton,Lewis Hamilton,Mercedes,6,3,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,hulkenberg,Nico Hulkenberg,Haas F1 Team,7,2,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,max_verstappen,Max Verstappen,Red Bull,8,1,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,gasly,Pierre Gasly,Alpine F1 Team,9,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,kevin_magnussen,Kevin Magnussen,Haas F1 Team,10,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,alonso,Fernando Alonso,Aston Martin,11,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,bottas,Valtteri Bottas,Sauber,12,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,stroll,Lance Stroll,Aston Martin,13,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,ocon,Esteban Ocon,Alpine F1 Team,14,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,albon,Alexander Albon,Williams,15,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,lawson,Liam Lawson,RB F1 Team,16,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,tsunoda,Yuki Tsunoda,RB F1 Team,17,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,colapinto,Franco Colapinto,Williams,18,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,zhou,Guanyu Zhou,Sauber,19,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2024,23,perez,Sergio Perez,Red Bull,20,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,hamilton,Lewis Hamilton,Ferrari,1,8,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,piastri,Oscar Piastri,McLaren,2,7,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,max_verstappen,Max Verstappen,Red Bull,3,6,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,russell,George Russell,Mercedes,4,5,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,leclerc,Charles Leclerc,Ferrari,5,4,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,tsunoda,Yuki Tsunoda,Red Bull,6,3,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,antonelli,Andrea Kimi Antonelli,Mercedes,7,2,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,norris,Lando Norris,McLaren,8,1,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,stroll,Lance Stroll,Aston Martin,9,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,alonso,Fernando Alonso,Aston Martin,10,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,albon,Alexander Albon,Williams,11,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,gasly,Pierre Gasly,Alpine F1 Team,12,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,hadjar,Isack Hadjar,RB F1 Team,13,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,lawson,Liam Lawson,RB F1 Team,14,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,bearman,Oliver Bearman,Haas F1 Team,15,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,ocon,Esteban Ocon,Haas F1 Team,16,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,sainz,Carlos Sainz,Williams,17,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,bortoleto,Gabriel Bortoleto,Sauber,18,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,hulkenberg,Nico Hulkenberg,Sauber,19,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,2,doohan,Jack Doohan,Alpine F1 Team,20,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,norris,Lando Norris,McLaren,1,8,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,piastri,Oscar Piastri,McLaren,2,7,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,hamilton,Lewis Hamilton,Ferrari,3,6,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,albon,Alexander Albon,Williams,4,5,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,russell,George Russell,Mercedes,5,4,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,stroll,Lance Stroll,Aston Martin,6,3,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,lawson,Liam Lawson,RB F1 Team,7,2,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,bearman,Oliver Bearman,Haas F1 Team,8,1,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,tsunoda,Yuki Tsunoda,Red Bull,9,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,antonelli,Andrea Kimi Antonelli,Mercedes,10,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,gasly,Pierre Gasly,Alpine F1 Team,11,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,hulkenberg,Nico Hulkenberg,Sauber,12,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,hadjar,Isack Hadjar,RB F1 Team,13,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,ocon,Esteban Ocon,Haas F1 Team,14,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,bortoleto,Gabriel Bortoleto,Sauber,15,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,doohan,Jack Doohan,Alpine F1 Team,16,0,18,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,max_verstappen,Max Verstappen,Red Bull,17,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,alonso,Fernando Alonso,Aston Martin,18,0,14,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,sainz,Carlos Sainz,Williams,19,0,13,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,6,leclerc,Charles Leclerc,Ferrari,20,0,1,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,max_verstappen,Max Verstappen,Red Bull,1,8,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,piastri,Oscar Piastri,McLaren,2,7,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,norris,Lando Norris,McLaren,3,6,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,leclerc,Charles Leclerc,Ferrari,4,5,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,ocon,Esteban Ocon,Haas F1 Team,5,4,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,sainz,Carlos Sainz,Williams,6,3,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,bearman,Oliver Bearman,Haas F1 Team,7,2,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,hadjar,Isack Hadjar,RB F1 Team,8,1,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,bortoleto,Gabriel Bortoleto,Sauber,9,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,lawson,Liam Lawson,RB F1 Team,10,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,tsunoda,Yuki Tsunoda,Red Bull,11,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,russell,George Russell,Mercedes,12,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,stroll,Lance Stroll,Aston Martin,13,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,alonso,Fernando Alonso,Aston Martin,14,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,hamilton,Lewis Hamilton,Ferrari,15,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,albon,Alexander Albon,Williams,16,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,antonelli,Andrea Kimi Antonelli,Mercedes,17,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,hulkenberg,Nico Hulkenberg,Sauber,18,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,colapinto,Franco Colapinto,Alpine F1 Team,19,0,15,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,13,gasly,Pierre Gasly,Alpine F1 Team,20,0,13,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,max_verstappen,Max Verstappen,Red Bull,1,8,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,russell,George Russell,Mercedes,2,7,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,sainz,Carlos Sainz,Williams,3,6,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,hamilton,Lewis Hamilton,Ferrari,4,5,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,leclerc,Charles Leclerc,Ferrari,5,4,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,albon,Alexander Albon,Williams,6,3,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,tsunoda,Yuki Tsunoda,Red Bull,7,2,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,antonelli,Andrea Kimi Antonelli,Mercedes,8,1,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,lawson,Liam Lawson,RB F1 Team,9,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,gasly,Pierre Gasly,Alpine F1 Team,10,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,bortoleto,Gabriel Bortoleto,Sauber,11,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,hadjar,Isack Hadjar,RB F1 Team,12,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,hulkenberg,Nico Hulkenberg,Sauber,13,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,colapinto,Franco Colapinto,Alpine F1 Team,14,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,bearman,Oliver Bearman,Haas F1 Team,15,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,ocon,Esteban Ocon,Haas F1 Team,16,0,16,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,stroll,Lance Stroll,Aston Martin,17,0,16,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,piastri,Oscar Piastri,McLaren,18,0,1,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,norris,Lando Norris,McLaren,19,0,1,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,19,alonso,Fernando Alonso,Aston Martin,20,0,1,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,norris,Lando Norris,McLaren,1,8,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,antonelli,Andrea Kimi Antonelli,Mercedes,2,7,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,russell,George Russell,Mercedes,3,6,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,max_verstappen,Max Verstappen,Red Bull,4,5,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,leclerc,Charles Leclerc,Ferrari,5,4,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,alonso,Fernando Alonso,Aston Martin,6,3,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,hamilton,Lewis Hamilton,Ferrari,7,2,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,gasly,Pierre Gasly,Alpine F1 Team,8,1,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,stroll,Lance Stroll,Aston Martin,9,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,hadjar,Isack Hadjar,RB F1 Team,10,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,ocon,Esteban Ocon,Haas F1 Team,11,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,bearman,Oliver Bearman,Haas F1 Team,12,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,lawson,Liam Lawson,RB F1 Team,13,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,tsunoda,Yuki Tsunoda,Red Bull,14,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,sainz,Carlos Sainz,Williams,15,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,hulkenberg,Nico Hulkenberg,Sauber,16,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,albon,Alexander Albon,Williams,17,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,bortoleto,Gabriel Bortoleto,Sauber,18,0,24,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,piastri,Oscar Piastri,McLaren,19,0,6,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,21,colapinto,Franco Colapinto,Alpine F1 Team,20,0,6,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,piastri,Oscar Piastri,McLaren,1,8,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,russell,George Russell,Mercedes,2,7,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,norris,Lando Norris,McLaren,3,6,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,max_verstappen,Max Verstappen,Red Bull,4,5,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,tsunoda,Yuki Tsunoda,Red Bull,5,4,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,antonelli,Andrea Kimi Antonelli,Mercedes,6,3,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,alonso,Fernando Alonso,Aston Martin,7,2,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,sainz,Carlos Sainz,Williams,8,1,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,hadjar,Isack Hadjar,RB F1 Team,9,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,albon,Alexander Albon,Williams,10,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,bortoleto,Gabriel Bortoleto,Sauber,11,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,bearman,Oliver Bearman,Haas F1 Team,12,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,leclerc,Charles Leclerc,Ferrari,13,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,lawson,Liam Lawson,RB F1 Team,14,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,ocon,Esteban Ocon,Haas F1 Team,15,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,hulkenberg,Nico Hulkenberg,Sauber,16,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,hamilton,Lewis Hamilton,Ferrari,17,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,gasly,Pierre Gasly,Alpine F1 Team,18,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,stroll,Lance Stroll,Aston Martin,19,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive
+2025,23,colapinto,Franco Colapinto,Alpine F1 Team,20,0,19,FINISHED,OpenF1 Real-Time Telemetry API & Ergast Sprint Archive

@@ -1,0 +1,138 @@
+id_estado,descripcion_estado,fuente
+1,FINISHED,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+2,DISQUALIFIED,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+3,ACCIDENT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+4,COLLISION,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+5,ENGINE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+6,GEARBOX,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+7,TRANSMISSION,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+8,CLUTCH,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+9,HYDRAULICS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+10,ELECTRICAL,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+11,+1 LAP,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+12,+2 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+13,+3 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+14,+4 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+15,+5 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+16,+6 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+17,+7 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+18,+8 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+19,+9 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+20,SPUN OFF,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+21,RADIATOR,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+22,SUSPENSION,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+23,BRAKES,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+24,DIFFERENTIAL,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+25,OVERHEATING,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+26,MECHANICAL,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+27,TYRE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+28,DRIVER SEAT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+29,PUNCTURE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+30,DRIVESHAFT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+31,RETIRED,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+32,FUEL PRESSURE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+33,FRONT WING,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+34,WATER PRESSURE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+35,REFUELLING,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+36,WHEEL,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+37,THROTTLE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+38,STEERING,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+39,TECHNICAL,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+40,ELECTRONICS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+41,BROKEN WING,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+42,HEAT SHIELD FIRE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+43,EXHAUST,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+44,OIL LEAK,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+45,+11 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+46,WHEEL RIM,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+47,WATER LEAK,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+48,FUEL PUMP,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+49,TRACK ROD,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+50,+17 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+51,OIL PRESSURE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+53,+13 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+54,WITHDREW,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+55,+12 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+56,ENGINE FIRE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+58,+26 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+59,TYRE PUNCTURE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+60,OUT OF FUEL,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+61,WHEEL NUT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+62,NOT CLASSIFIED,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+63,PNEUMATICS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+64,HANDLING,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+65,REAR WING,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+66,FIRE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+67,WHEEL BEARING,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+68,PHYSICAL,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+69,FUEL SYSTEM,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+70,OIL LINE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+71,FUEL RIG,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+72,LAUNCH CONTROL,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+73,INJURED,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+74,FUEL,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+75,POWER LOSS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+76,VIBRATIONS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+77,107% RULE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+78,SAFETY,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+79,DRIVETRAIN,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+80,IGNITION,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+81,DID NOT QUALIFY,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+82,INJURY,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+83,CHASSIS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+84,BATTERY,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+85,STALLED,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+86,HALFSHAFT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+87,CRANKSHAFT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+88,+10 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+89,SAFETY CONCERNS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+90,NOT RESTARTED,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+91,ALTERNATOR,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+92,UNDERWEIGHT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+93,SAFETY BELT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+94,OIL PUMP,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+95,FUEL LEAK,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+96,EXCLUDED,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+97,DID NOT PREQUALIFY,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+98,INJECTION,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+99,DISTRIBUTOR,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+100,DRIVER UNWELL,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+101,TURBO,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+102,CV JOINT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+103,WATER PUMP,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+104,FATAL ACCIDENT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+105,SPARK PLUGS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+106,FUEL PIPE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+107,EYE INJURY,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+108,OIL PIPE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+109,AXLE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+110,WATER PIPE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+111,+14 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+112,+15 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+113,+25 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+114,+18 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+115,+22 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+116,+16 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+117,+24 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+118,+29 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+119,+23 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+120,+21 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+121,MAGNETO,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+122,+44 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+123,+30 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+124,+19 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+125,+46 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+126,SUPERCHARGER,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+127,+20 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+128,+42 LAPS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+129,ENGINE MISFIRE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+130,COLLISION DAMAGE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+131,POWER UNIT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+132,ERS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+135,BRAKE DUCT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+136,SEAT,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+137,DAMAGE,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+138,DEBRIS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+139,ILLNESS,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+140,UNDERTRAY,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA
+141,COOLING SYSTEM,Catálogo Oficial de Clasificación y Estados de Carrera Ergast / FIA

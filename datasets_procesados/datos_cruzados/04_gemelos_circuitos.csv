@@ -1,0 +1,436 @@
+circuito_a,pais_a,familia_a,circuito_b,pais_b,familia_b,correlacion_r,misma_familia
+catalunya,Spain,Carga Lateral Extrema,ricard,France,Mixtos y Técnicos,0.908,False
+baku,Azerbaijan,Laberintos Urbanos,miami,USA,Stop-and-Go,0.897,False
+red_bull_ring,Austria,Stop-and-Go,ricard,France,Mixtos y Técnicos,0.893,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,miami,USA,Stop-and-Go,0.889,False
+nurburgring,Germany,Mixtos y Técnicos,portimao,Portugal,Mixtos y Técnicos,0.885,True
+hungaroring,Hungary,Laberintos Urbanos,red_bull_ring,Austria,Stop-and-Go,0.859,False
+portimao,Portugal,Mixtos y Técnicos,red_bull_ring,Austria,Stop-and-Go,0.851,False
+ricard,France,Mixtos y Técnicos,yas_marina,UAE,Stop-and-Go,0.849,False
+interlagos,Brazil,Mixtos y Técnicos,red_bull_ring,Austria,Stop-and-Go,0.846,False
+portimao,Portugal,Mixtos y Técnicos,ricard,France,Mixtos y Técnicos,0.846,True
+interlagos,Brazil,Mixtos y Técnicos,ricard,France,Mixtos y Técnicos,0.842,True
+albert_park,Australia,Stop-and-Go,ricard,France,Mixtos y Técnicos,0.84,False
+bahrain,Bahrain,Mixtos y Técnicos,portimao,Portugal,Mixtos y Técnicos,0.839,True
+catalunya,Spain,Carga Lateral Extrema,monaco,Monaco,Laberintos Urbanos,0.837,False
+ricard,France,Mixtos y Técnicos,silverstone,UK,Carga Lateral Extrema,0.834,False
+miami,USA,Stop-and-Go,vegas,United States,Stop-and-Go,0.83,True
+marina_bay,Singapore,Laberintos Urbanos,suzuka,Japan,Carga Lateral Extrema,0.829,False
+spa,Belgium,Carga Lateral Extrema,yas_marina,UAE,Stop-and-Go,0.827,False
+catalunya,Spain,Carga Lateral Extrema,losail,Qatar,Carga Lateral Extrema,0.826,True
+catalunya,Spain,Carga Lateral Extrema,portimao,Portugal,Mixtos y Técnicos,0.825,False
+monza,Italy,Stop-and-Go,yas_marina,UAE,Stop-and-Go,0.824,True
+hungaroring,Hungary,Laberintos Urbanos,ricard,France,Mixtos y Técnicos,0.822,False
+ricard,France,Mixtos y Técnicos,shanghai,China,Mixtos y Técnicos,0.819,True
+monaco,Monaco,Laberintos Urbanos,suzuka,Japan,Carga Lateral Extrema,0.817,False
+catalunya,Spain,Carga Lateral Extrema,red_bull_ring,Austria,Stop-and-Go,0.817,False
+bahrain,Bahrain,Mixtos y Técnicos,yas_marina,UAE,Stop-and-Go,0.816,False
+imola,Italy,Mixtos y Técnicos,miami,USA,Stop-and-Go,0.815,False
+nurburgring,Germany,Mixtos y Técnicos,ricard,France,Mixtos y Técnicos,0.815,True
+portimao,Portugal,Mixtos y Técnicos,sochi,Russia,Laberintos Urbanos,0.814,False
+silverstone,UK,Carga Lateral Extrema,sochi,Russia,Laberintos Urbanos,0.814,False
+shanghai,China,Mixtos y Técnicos,suzuka,Japan,Carga Lateral Extrema,0.812,False
+americas,USA,Mixtos y Técnicos,ricard,France,Mixtos y Técnicos,0.811,True
+nurburgring,Germany,Mixtos y Técnicos,red_bull_ring,Austria,Stop-and-Go,0.809,False
+ricard,France,Mixtos y Técnicos,rodriguez,Mexico,Laberintos Urbanos,0.808,False
+miami,USA,Stop-and-Go,rodriguez,Mexico,Laberintos Urbanos,0.806,False
+ricard,France,Mixtos y Técnicos,sochi,Russia,Laberintos Urbanos,0.805,False
+miami,USA,Stop-and-Go,red_bull_ring,Austria,Stop-and-Go,0.805,True
+bahrain,Bahrain,Mixtos y Técnicos,imola,Italy,Mixtos y Técnicos,0.804,True
+americas,USA,Mixtos y Técnicos,silverstone,UK,Carga Lateral Extrema,0.802,False
+red_bull_ring,Austria,Stop-and-Go,silverstone,UK,Carga Lateral Extrema,0.802,False
+istanbul,Turkey,Mixtos y Técnicos,red_bull_ring,Austria,Stop-and-Go,0.8,False
+bahrain,Bahrain,Mixtos y Técnicos,ricard,France,Mixtos y Técnicos,0.799,True
+interlagos,Brazil,Mixtos y Técnicos,monaco,Monaco,Laberintos Urbanos,0.797,False
+catalunya,Spain,Carga Lateral Extrema,istanbul,Turkey,Mixtos y Técnicos,0.797,False
+miami,USA,Stop-and-Go,suzuka,Japan,Carga Lateral Extrema,0.797,False
+shanghai,China,Mixtos y Técnicos,sochi,Russia,Laberintos Urbanos,0.796,False
+catalunya,Spain,Carga Lateral Extrema,imola,Italy,Mixtos y Técnicos,0.795,False
+portimao,Portugal,Mixtos y Técnicos,silverstone,UK,Carga Lateral Extrema,0.795,False
+bahrain,Bahrain,Mixtos y Técnicos,istanbul,Turkey,Mixtos y Técnicos,0.794,True
+red_bull_ring,Austria,Stop-and-Go,spa,Belgium,Carga Lateral Extrema,0.794,False
+albert_park,Australia,Stop-and-Go,catalunya,Spain,Carga Lateral Extrema,0.791,False
+nurburgring,Germany,Mixtos y Técnicos,zandvoort,Netherlands,Carga Lateral Extrema,0.79,False
+imola,Italy,Mixtos y Técnicos,suzuka,Japan,Carga Lateral Extrema,0.786,False
+hungaroring,Hungary,Laberintos Urbanos,monza,Italy,Stop-and-Go,0.785,False
+istanbul,Turkey,Mixtos y Técnicos,portimao,Portugal,Mixtos y Técnicos,0.785,True
+catalunya,Spain,Carga Lateral Extrema,hungaroring,Hungary,Laberintos Urbanos,0.785,False
+hungaroring,Hungary,Laberintos Urbanos,silverstone,UK,Carga Lateral Extrema,0.782,False
+catalunya,Spain,Carga Lateral Extrema,miami,USA,Stop-and-Go,0.781,False
+silverstone,UK,Carga Lateral Extrema,yas_marina,UAE,Stop-and-Go,0.78,False
+albert_park,Australia,Stop-and-Go,marina_bay,Singapore,Laberintos Urbanos,0.78,False
+catalunya,Spain,Carga Lateral Extrema,monza,Italy,Stop-and-Go,0.779,False
+istanbul,Turkey,Mixtos y Técnicos,nurburgring,Germany,Mixtos y Técnicos,0.779,True
+bahrain,Bahrain,Mixtos y Técnicos,silverstone,UK,Carga Lateral Extrema,0.778,False
+red_bull_ring,Austria,Stop-and-Go,sochi,Russia,Laberintos Urbanos,0.778,False
+catalunya,Spain,Carga Lateral Extrema,sochi,Russia,Laberintos Urbanos,0.775,False
+bahrain,Bahrain,Mixtos y Técnicos,jeddah,Saudi Arabia,Carga Lateral Extrema,0.774,False
+monaco,Monaco,Laberintos Urbanos,silverstone,UK,Carga Lateral Extrema,0.774,False
+albert_park,Australia,Stop-and-Go,red_bull_ring,Austria,Stop-and-Go,0.772,True
+marina_bay,Singapore,Laberintos Urbanos,rodriguez,Mexico,Laberintos Urbanos,0.771,True
+bahrain,Bahrain,Mixtos y Técnicos,miami,USA,Stop-and-Go,0.77,False
+monza,Italy,Stop-and-Go,red_bull_ring,Austria,Stop-and-Go,0.77,True
+baku,Azerbaijan,Laberintos Urbanos,marina_bay,Singapore,Laberintos Urbanos,0.769,True
+bahrain,Bahrain,Mixtos y Técnicos,suzuka,Japan,Carga Lateral Extrema,0.769,False
+americas,USA,Mixtos y Técnicos,istanbul,Turkey,Mixtos y Técnicos,0.769,True
+monaco,Monaco,Laberintos Urbanos,zandvoort,Netherlands,Carga Lateral Extrema,0.768,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,vegas,United States,Stop-and-Go,0.768,False
+shanghai,China,Mixtos y Técnicos,villeneuve,Canada,Stop-and-Go,0.767,False
+ricard,France,Mixtos y Técnicos,villeneuve,Canada,Stop-and-Go,0.767,False
+baku,Azerbaijan,Laberintos Urbanos,hungaroring,Hungary,Laberintos Urbanos,0.766,True
+baku,Azerbaijan,Laberintos Urbanos,red_bull_ring,Austria,Stop-and-Go,0.766,False
+catalunya,Spain,Carga Lateral Extrema,interlagos,Brazil,Mixtos y Técnicos,0.766,False
+monza,Italy,Stop-and-Go,shanghai,China,Mixtos y Técnicos,0.765,False
+hungaroring,Hungary,Laberintos Urbanos,monaco,Monaco,Laberintos Urbanos,0.765,True
+jeddah,Saudi Arabia,Carga Lateral Extrema,suzuka,Japan,Carga Lateral Extrema,0.764,True
+marina_bay,Singapore,Laberintos Urbanos,miami,USA,Stop-and-Go,0.764,False
+catalunya,Spain,Carga Lateral Extrema,yas_marina,UAE,Stop-and-Go,0.763,False
+imola,Italy,Mixtos y Técnicos,losail,Qatar,Carga Lateral Extrema,0.763,False
+sochi,Russia,Laberintos Urbanos,villeneuve,Canada,Stop-and-Go,0.761,False
+catalunya,Spain,Carga Lateral Extrema,silverstone,UK,Carga Lateral Extrema,0.761,True
+interlagos,Brazil,Mixtos y Técnicos,portimao,Portugal,Mixtos y Técnicos,0.76,True
+istanbul,Turkey,Mixtos y Técnicos,spa,Belgium,Carga Lateral Extrema,0.76,False
+marina_bay,Singapore,Laberintos Urbanos,shanghai,China,Mixtos y Técnicos,0.759,False
+red_bull_ring,Austria,Stop-and-Go,yas_marina,UAE,Stop-and-Go,0.758,True
+monaco,Monaco,Laberintos Urbanos,monza,Italy,Stop-and-Go,0.758,False
+silverstone,UK,Carga Lateral Extrema,spa,Belgium,Carga Lateral Extrema,0.758,True
+monza,Italy,Stop-and-Go,silverstone,UK,Carga Lateral Extrema,0.758,False
+albert_park,Australia,Stop-and-Go,baku,Azerbaijan,Laberintos Urbanos,0.757,False
+ricard,France,Mixtos y Técnicos,spa,Belgium,Carga Lateral Extrema,0.756,False
+baku,Azerbaijan,Laberintos Urbanos,monaco,Monaco,Laberintos Urbanos,0.756,True
+interlagos,Brazil,Mixtos y Técnicos,sochi,Russia,Laberintos Urbanos,0.755,False
+americas,USA,Mixtos y Técnicos,red_bull_ring,Austria,Stop-and-Go,0.755,False
+monaco,Monaco,Laberintos Urbanos,shanghai,China,Mixtos y Técnicos,0.755,False
+imola,Italy,Mixtos y Técnicos,monza,Italy,Stop-and-Go,0.754,False
+bahrain,Bahrain,Mixtos y Técnicos,nurburgring,Germany,Mixtos y Técnicos,0.754,True
+portimao,Portugal,Mixtos y Técnicos,rodriguez,Mexico,Laberintos Urbanos,0.753,False
+nurburgring,Germany,Mixtos y Técnicos,yas_marina,UAE,Stop-and-Go,0.753,False
+istanbul,Turkey,Mixtos y Técnicos,sochi,Russia,Laberintos Urbanos,0.753,False
+interlagos,Brazil,Mixtos y Técnicos,marina_bay,Singapore,Laberintos Urbanos,0.752,False
+baku,Azerbaijan,Laberintos Urbanos,catalunya,Spain,Carga Lateral Extrema,0.752,False
+bahrain,Bahrain,Mixtos y Técnicos,rodriguez,Mexico,Laberintos Urbanos,0.752,False
+rodriguez,Mexico,Laberintos Urbanos,silverstone,UK,Carga Lateral Extrema,0.751,False
+albert_park,Australia,Stop-and-Go,rodriguez,Mexico,Laberintos Urbanos,0.751,False
+monaco,Monaco,Laberintos Urbanos,villeneuve,Canada,Stop-and-Go,0.75,False
+hungaroring,Hungary,Laberintos Urbanos,portimao,Portugal,Mixtos y Técnicos,0.75,False
+americas,USA,Mixtos y Técnicos,portimao,Portugal,Mixtos y Técnicos,0.749,True
+hungaroring,Hungary,Laberintos Urbanos,miami,USA,Stop-and-Go,0.749,False
+catalunya,Spain,Carga Lateral Extrema,nurburgring,Germany,Mixtos y Técnicos,0.748,False
+rodriguez,Mexico,Laberintos Urbanos,yas_marina,UAE,Stop-and-Go,0.748,False
+bahrain,Bahrain,Mixtos y Técnicos,losail,Qatar,Carga Lateral Extrema,0.748,False
+americas,USA,Mixtos y Técnicos,imola,Italy,Mixtos y Técnicos,0.747,True
+miami,USA,Stop-and-Go,monaco,Monaco,Laberintos Urbanos,0.746,False
+americas,USA,Mixtos y Técnicos,rodriguez,Mexico,Laberintos Urbanos,0.745,False
+albert_park,Australia,Stop-and-Go,villeneuve,Canada,Stop-and-Go,0.745,True
+baku,Azerbaijan,Laberintos Urbanos,interlagos,Brazil,Mixtos y Técnicos,0.744,False
+albert_park,Australia,Stop-and-Go,hungaroring,Hungary,Laberintos Urbanos,0.744,False
+hungaroring,Hungary,Laberintos Urbanos,yas_marina,UAE,Stop-and-Go,0.743,False
+monaco,Monaco,Laberintos Urbanos,red_bull_ring,Austria,Stop-and-Go,0.743,False
+monza,Italy,Stop-and-Go,portimao,Portugal,Mixtos y Técnicos,0.743,False
+monza,Italy,Stop-and-Go,suzuka,Japan,Carga Lateral Extrema,0.743,False
+portimao,Portugal,Mixtos y Técnicos,yas_marina,UAE,Stop-and-Go,0.743,False
+silverstone,UK,Carga Lateral Extrema,villeneuve,Canada,Stop-and-Go,0.742,False
+silverstone,UK,Carga Lateral Extrema,zandvoort,Netherlands,Carga Lateral Extrema,0.741,True
+hungaroring,Hungary,Laberintos Urbanos,spa,Belgium,Carga Lateral Extrema,0.741,False
+portimao,Portugal,Mixtos y Técnicos,spa,Belgium,Carga Lateral Extrema,0.74,False
+americas,USA,Mixtos y Técnicos,yas_marina,UAE,Stop-and-Go,0.739,False
+miami,USA,Stop-and-Go,monza,Italy,Stop-and-Go,0.739,True
+bahrain,Bahrain,Mixtos y Técnicos,catalunya,Spain,Carga Lateral Extrema,0.739,False
+shanghai,China,Mixtos y Técnicos,silverstone,UK,Carga Lateral Extrema,0.737,False
+hungaroring,Hungary,Laberintos Urbanos,shanghai,China,Mixtos y Técnicos,0.737,False
+imola,Italy,Mixtos y Técnicos,jeddah,Saudi Arabia,Carga Lateral Extrema,0.736,False
+imola,Italy,Mixtos y Técnicos,yas_marina,UAE,Stop-and-Go,0.736,False
+interlagos,Brazil,Mixtos y Técnicos,villeneuve,Canada,Stop-and-Go,0.735,False
+imola,Italy,Mixtos y Técnicos,monaco,Monaco,Laberintos Urbanos,0.734,False
+monaco,Monaco,Laberintos Urbanos,ricard,France,Mixtos y Técnicos,0.732,False
+monza,Italy,Stop-and-Go,rodriguez,Mexico,Laberintos Urbanos,0.731,False
+istanbul,Turkey,Mixtos y Técnicos,silverstone,UK,Carga Lateral Extrema,0.73,False
+imola,Italy,Mixtos y Técnicos,istanbul,Turkey,Mixtos y Técnicos,0.729,True
+interlagos,Brazil,Mixtos y Técnicos,miami,USA,Stop-and-Go,0.729,False
+bahrain,Bahrain,Mixtos y Técnicos,marina_bay,Singapore,Laberintos Urbanos,0.728,False
+losail,Qatar,Carga Lateral Extrema,ricard,France,Mixtos y Técnicos,0.728,False
+bahrain,Bahrain,Mixtos y Técnicos,monaco,Monaco,Laberintos Urbanos,0.727,False
+istanbul,Turkey,Mixtos y Técnicos,ricard,France,Mixtos y Técnicos,0.726,True
+istanbul,Turkey,Mixtos y Técnicos,monza,Italy,Stop-and-Go,0.726,False
+americas,USA,Mixtos y Técnicos,bahrain,Bahrain,Mixtos y Técnicos,0.725,True
+nurburgring,Germany,Mixtos y Técnicos,sochi,Russia,Laberintos Urbanos,0.724,False
+miami,USA,Stop-and-Go,yas_marina,UAE,Stop-and-Go,0.724,True
+marina_bay,Singapore,Laberintos Urbanos,villeneuve,Canada,Stop-and-Go,0.724,False
+americas,USA,Mixtos y Técnicos,marina_bay,Singapore,Laberintos Urbanos,0.723,False
+imola,Italy,Mixtos y Técnicos,vegas,United States,Stop-and-Go,0.723,False
+suzuka,Japan,Carga Lateral Extrema,villeneuve,Canada,Stop-and-Go,0.721,False
+red_bull_ring,Austria,Stop-and-Go,villeneuve,Canada,Stop-and-Go,0.72,True
+interlagos,Brazil,Mixtos y Técnicos,rodriguez,Mexico,Laberintos Urbanos,0.719,False
+portimao,Portugal,Mixtos y Técnicos,zandvoort,Netherlands,Carga Lateral Extrema,0.719,False
+catalunya,Spain,Carga Lateral Extrema,spa,Belgium,Carga Lateral Extrema,0.719,True
+monaco,Monaco,Laberintos Urbanos,sochi,Russia,Laberintos Urbanos,0.719,True
+red_bull_ring,Austria,Stop-and-Go,shanghai,China,Mixtos y Técnicos,0.719,False
+baku,Azerbaijan,Laberintos Urbanos,ricard,France,Mixtos y Técnicos,0.717,False
+marina_bay,Singapore,Laberintos Urbanos,vegas,United States,Stop-and-Go,0.717,False
+bahrain,Bahrain,Mixtos y Técnicos,zandvoort,Netherlands,Carga Lateral Extrema,0.716,False
+interlagos,Brazil,Mixtos y Técnicos,istanbul,Turkey,Mixtos y Técnicos,0.715,True
+istanbul,Turkey,Mixtos y Técnicos,yas_marina,UAE,Stop-and-Go,0.715,False
+ricard,France,Mixtos y Técnicos,suzuka,Japan,Carga Lateral Extrema,0.715,False
+baku,Azerbaijan,Laberintos Urbanos,suzuka,Japan,Carga Lateral Extrema,0.714,False
+villeneuve,Canada,Stop-and-Go,yas_marina,UAE,Stop-and-Go,0.714,True
+interlagos,Brazil,Mixtos y Técnicos,suzuka,Japan,Carga Lateral Extrema,0.713,False
+marina_bay,Singapore,Laberintos Urbanos,monaco,Monaco,Laberintos Urbanos,0.713,True
+baku,Azerbaijan,Laberintos Urbanos,imola,Italy,Mixtos y Técnicos,0.711,False
+sochi,Russia,Laberintos Urbanos,suzuka,Japan,Carga Lateral Extrema,0.709,False
+imola,Italy,Mixtos y Técnicos,interlagos,Brazil,Mixtos y Técnicos,0.708,True
+interlagos,Brazil,Mixtos y Técnicos,shanghai,China,Mixtos y Técnicos,0.707,True
+jeddah,Saudi Arabia,Carga Lateral Extrema,monaco,Monaco,Laberintos Urbanos,0.707,False
+bahrain,Bahrain,Mixtos y Técnicos,sochi,Russia,Laberintos Urbanos,0.707,False
+suzuka,Japan,Carga Lateral Extrema,yas_marina,UAE,Stop-and-Go,0.706,False
+imola,Italy,Mixtos y Técnicos,silverstone,UK,Carga Lateral Extrema,0.705,False
+sochi,Russia,Laberintos Urbanos,spa,Belgium,Carga Lateral Extrema,0.705,False
+baku,Azerbaijan,Laberintos Urbanos,monza,Italy,Stop-and-Go,0.704,False
+monza,Italy,Stop-and-Go,ricard,France,Mixtos y Técnicos,0.704,False
+interlagos,Brazil,Mixtos y Técnicos,monza,Italy,Stop-and-Go,0.703,False
+marina_bay,Singapore,Laberintos Urbanos,ricard,France,Mixtos y Técnicos,0.703,False
+monaco,Monaco,Laberintos Urbanos,yas_marina,UAE,Stop-and-Go,0.703,False
+catalunya,Spain,Carga Lateral Extrema,villeneuve,Canada,Stop-and-Go,0.702,False
+interlagos,Brazil,Mixtos y Técnicos,silverstone,UK,Carga Lateral Extrema,0.702,False
+monza,Italy,Stop-and-Go,spa,Belgium,Carga Lateral Extrema,0.701,False
+monaco,Monaco,Laberintos Urbanos,spa,Belgium,Carga Lateral Extrema,0.701,False
+ricard,France,Mixtos y Técnicos,zandvoort,Netherlands,Carga Lateral Extrema,0.7,False
+rodriguez,Mexico,Laberintos Urbanos,shanghai,China,Mixtos y Técnicos,0.699,False
+catalunya,Spain,Carga Lateral Extrema,suzuka,Japan,Carga Lateral Extrema,0.699,True
+red_bull_ring,Austria,Stop-and-Go,rodriguez,Mexico,Laberintos Urbanos,0.698,False
+miami,USA,Stop-and-Go,zandvoort,Netherlands,Carga Lateral Extrema,0.696,False
+shanghai,China,Mixtos y Técnicos,yas_marina,UAE,Stop-and-Go,0.695,False
+albert_park,Australia,Stop-and-Go,silverstone,UK,Carga Lateral Extrema,0.695,False
+portimao,Portugal,Mixtos y Técnicos,villeneuve,Canada,Stop-and-Go,0.694,False
+istanbul,Turkey,Mixtos y Técnicos,rodriguez,Mexico,Laberintos Urbanos,0.691,False
+albert_park,Australia,Stop-and-Go,miami,USA,Stop-and-Go,0.69,True
+bahrain,Bahrain,Mixtos y Técnicos,spa,Belgium,Carga Lateral Extrema,0.69,False
+hungaroring,Hungary,Laberintos Urbanos,interlagos,Brazil,Mixtos y Técnicos,0.69,False
+losail,Qatar,Carga Lateral Extrema,suzuka,Japan,Carga Lateral Extrema,0.689,True
+hungaroring,Hungary,Laberintos Urbanos,rodriguez,Mexico,Laberintos Urbanos,0.689,True
+jeddah,Saudi Arabia,Carga Lateral Extrema,zandvoort,Netherlands,Carga Lateral Extrema,0.689,True
+monza,Italy,Stop-and-Go,sochi,Russia,Laberintos Urbanos,0.688,False
+losail,Qatar,Carga Lateral Extrema,portimao,Portugal,Mixtos y Técnicos,0.688,False
+rodriguez,Mexico,Laberintos Urbanos,villeneuve,Canada,Stop-and-Go,0.688,False
+baku,Azerbaijan,Laberintos Urbanos,rodriguez,Mexico,Laberintos Urbanos,0.687,True
+jeddah,Saudi Arabia,Carga Lateral Extrema,losail,Qatar,Carga Lateral Extrema,0.687,True
+jeddah,Saudi Arabia,Carga Lateral Extrema,nurburgring,Germany,Mixtos y Técnicos,0.687,False
+baku,Azerbaijan,Laberintos Urbanos,jeddah,Saudi Arabia,Carga Lateral Extrema,0.687,False
+monza,Italy,Stop-and-Go,nurburgring,Germany,Mixtos y Técnicos,0.687,False
+sochi,Russia,Laberintos Urbanos,yas_marina,UAE,Stop-and-Go,0.686,False
+losail,Qatar,Carga Lateral Extrema,red_bull_ring,Austria,Stop-and-Go,0.685,False
+interlagos,Brazil,Mixtos y Técnicos,nurburgring,Germany,Mixtos y Técnicos,0.685,True
+albert_park,Australia,Stop-and-Go,imola,Italy,Mixtos y Técnicos,0.685,False
+hungaroring,Hungary,Laberintos Urbanos,marina_bay,Singapore,Laberintos Urbanos,0.684,True
+monza,Italy,Stop-and-Go,villeneuve,Canada,Stop-and-Go,0.683,True
+losail,Qatar,Carga Lateral Extrema,monza,Italy,Stop-and-Go,0.682,False
+hungaroring,Hungary,Laberintos Urbanos,villeneuve,Canada,Stop-and-Go,0.682,False
+albert_park,Australia,Stop-and-Go,interlagos,Brazil,Mixtos y Técnicos,0.682,False
+marina_bay,Singapore,Laberintos Urbanos,red_bull_ring,Austria,Stop-and-Go,0.682,False
+albert_park,Australia,Stop-and-Go,suzuka,Japan,Carga Lateral Extrema,0.681,False
+bahrain,Bahrain,Mixtos y Técnicos,monza,Italy,Stop-and-Go,0.68,False
+catalunya,Spain,Carga Lateral Extrema,shanghai,China,Mixtos y Técnicos,0.679,False
+rodriguez,Mexico,Laberintos Urbanos,vegas,United States,Stop-and-Go,0.678,False
+albert_park,Australia,Stop-and-Go,monaco,Monaco,Laberintos Urbanos,0.678,False
+losail,Qatar,Carga Lateral Extrema,miami,USA,Stop-and-Go,0.678,False
+americas,USA,Mixtos y Técnicos,sochi,Russia,Laberintos Urbanos,0.677,False
+baku,Azerbaijan,Laberintos Urbanos,losail,Qatar,Carga Lateral Extrema,0.677,False
+baku,Azerbaijan,Laberintos Urbanos,vegas,United States,Stop-and-Go,0.677,False
+rodriguez,Mexico,Laberintos Urbanos,suzuka,Japan,Carga Lateral Extrema,0.676,False
+losail,Qatar,Carga Lateral Extrema,yas_marina,UAE,Stop-and-Go,0.675,False
+monaco,Monaco,Laberintos Urbanos,portimao,Portugal,Mixtos y Técnicos,0.675,False
+hungaroring,Hungary,Laberintos Urbanos,sochi,Russia,Laberintos Urbanos,0.675,True
+losail,Qatar,Carga Lateral Extrema,monaco,Monaco,Laberintos Urbanos,0.674,False
+portimao,Portugal,Mixtos y Técnicos,shanghai,China,Mixtos y Técnicos,0.674,True
+imola,Italy,Mixtos y Técnicos,marina_bay,Singapore,Laberintos Urbanos,0.674,False
+catalunya,Spain,Carga Lateral Extrema,zandvoort,Netherlands,Carga Lateral Extrema,0.673,True
+monza,Italy,Stop-and-Go,zandvoort,Netherlands,Carga Lateral Extrema,0.672,False
+albert_park,Australia,Stop-and-Go,americas,USA,Mixtos y Técnicos,0.672,False
+bahrain,Bahrain,Mixtos y Técnicos,villeneuve,Canada,Stop-and-Go,0.671,False
+interlagos,Brazil,Mixtos y Técnicos,losail,Qatar,Carga Lateral Extrema,0.669,False
+losail,Qatar,Carga Lateral Extrema,spa,Belgium,Carga Lateral Extrema,0.668,True
+albert_park,Australia,Stop-and-Go,monza,Italy,Stop-and-Go,0.667,True
+americas,USA,Mixtos y Técnicos,baku,Azerbaijan,Laberintos Urbanos,0.667,False
+albert_park,Australia,Stop-and-Go,shanghai,China,Mixtos y Técnicos,0.665,False
+imola,Italy,Mixtos y Técnicos,red_bull_ring,Austria,Stop-and-Go,0.663,False
+albert_park,Australia,Stop-and-Go,bahrain,Bahrain,Mixtos y Técnicos,0.663,False
+losail,Qatar,Carga Lateral Extrema,villeneuve,Canada,Stop-and-Go,0.662,False
+imola,Italy,Mixtos y Técnicos,zandvoort,Netherlands,Carga Lateral Extrema,0.661,False
+bahrain,Bahrain,Mixtos y Técnicos,shanghai,China,Mixtos y Técnicos,0.661,True
+americas,USA,Mixtos y Técnicos,spa,Belgium,Carga Lateral Extrema,0.66,False
+baku,Azerbaijan,Laberintos Urbanos,villeneuve,Canada,Stop-and-Go,0.659,False
+americas,USA,Mixtos y Técnicos,suzuka,Japan,Carga Lateral Extrema,0.657,False
+nurburgring,Germany,Mixtos y Técnicos,villeneuve,Canada,Stop-and-Go,0.656,False
+albert_park,Australia,Stop-and-Go,vegas,United States,Stop-and-Go,0.655,True
+imola,Italy,Mixtos y Técnicos,spa,Belgium,Carga Lateral Extrema,0.655,False
+suzuka,Japan,Carga Lateral Extrema,zandvoort,Netherlands,Carga Lateral Extrema,0.655,True
+hungaroring,Hungary,Laberintos Urbanos,suzuka,Japan,Carga Lateral Extrema,0.652,False
+istanbul,Turkey,Mixtos y Técnicos,suzuka,Japan,Carga Lateral Extrema,0.652,False
+americas,USA,Mixtos y Técnicos,nurburgring,Germany,Mixtos y Técnicos,0.65,True
+bahrain,Bahrain,Mixtos y Técnicos,red_bull_ring,Austria,Stop-and-Go,0.65,False
+monaco,Monaco,Laberintos Urbanos,rodriguez,Mexico,Laberintos Urbanos,0.649,True
+red_bull_ring,Austria,Stop-and-Go,zandvoort,Netherlands,Carga Lateral Extrema,0.649,False
+americas,USA,Mixtos y Técnicos,villeneuve,Canada,Stop-and-Go,0.648,False
+suzuka,Japan,Carga Lateral Extrema,vegas,United States,Stop-and-Go,0.647,False
+silverstone,UK,Carga Lateral Extrema,suzuka,Japan,Carga Lateral Extrema,0.647,True
+istanbul,Turkey,Mixtos y Técnicos,zandvoort,Netherlands,Carga Lateral Extrema,0.645,False
+istanbul,Turkey,Mixtos y Técnicos,losail,Qatar,Carga Lateral Extrema,0.645,False
+americas,USA,Mixtos y Técnicos,monza,Italy,Stop-and-Go,0.645,False
+albert_park,Australia,Stop-and-Go,yas_marina,UAE,Stop-and-Go,0.644,True
+americas,USA,Mixtos y Técnicos,interlagos,Brazil,Mixtos y Técnicos,0.642,True
+imola,Italy,Mixtos y Técnicos,ricard,France,Mixtos y Técnicos,0.642,True
+marina_bay,Singapore,Laberintos Urbanos,monza,Italy,Stop-and-Go,0.641,False
+nurburgring,Germany,Mixtos y Técnicos,spa,Belgium,Carga Lateral Extrema,0.64,False
+americas,USA,Mixtos y Técnicos,catalunya,Spain,Carga Lateral Extrema,0.64,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,marina_bay,Singapore,Laberintos Urbanos,0.64,False
+nurburgring,Germany,Mixtos y Técnicos,silverstone,UK,Carga Lateral Extrema,0.637,False
+catalunya,Spain,Carga Lateral Extrema,rodriguez,Mexico,Laberintos Urbanos,0.637,False
+interlagos,Brazil,Mixtos y Técnicos,vegas,United States,Stop-and-Go,0.635,False
+miami,USA,Stop-and-Go,nurburgring,Germany,Mixtos y Técnicos,0.634,False
+rodriguez,Mexico,Laberintos Urbanos,zandvoort,Netherlands,Carga Lateral Extrema,0.633,False
+imola,Italy,Mixtos y Técnicos,shanghai,China,Mixtos y Técnicos,0.633,True
+yas_marina,UAE,Stop-and-Go,zandvoort,Netherlands,Carga Lateral Extrema,0.633,False
+catalunya,Spain,Carga Lateral Extrema,vegas,United States,Stop-and-Go,0.632,False
+portimao,Portugal,Mixtos y Técnicos,suzuka,Japan,Carga Lateral Extrema,0.631,False
+losail,Qatar,Carga Lateral Extrema,silverstone,UK,Carga Lateral Extrema,0.63,True
+spa,Belgium,Carga Lateral Extrema,villeneuve,Canada,Stop-and-Go,0.63,False
+hungaroring,Hungary,Laberintos Urbanos,losail,Qatar,Carga Lateral Extrema,0.63,False
+red_bull_ring,Austria,Stop-and-Go,suzuka,Japan,Carga Lateral Extrema,0.628,False
+hungaroring,Hungary,Laberintos Urbanos,zandvoort,Netherlands,Carga Lateral Extrema,0.628,False
+losail,Qatar,Carga Lateral Extrema,zandvoort,Netherlands,Carga Lateral Extrema,0.627,True
+catalunya,Spain,Carga Lateral Extrema,jeddah,Saudi Arabia,Carga Lateral Extrema,0.626,True
+baku,Azerbaijan,Laberintos Urbanos,spa,Belgium,Carga Lateral Extrema,0.626,False
+interlagos,Brazil,Mixtos y Técnicos,jeddah,Saudi Arabia,Carga Lateral Extrema,0.626,False
+marina_bay,Singapore,Laberintos Urbanos,silverstone,UK,Carga Lateral Extrema,0.625,False
+baku,Azerbaijan,Laberintos Urbanos,yas_marina,UAE,Stop-and-Go,0.625,False
+losail,Qatar,Carga Lateral Extrema,vegas,United States,Stop-and-Go,0.624,False
+losail,Qatar,Carga Lateral Extrema,rodriguez,Mexico,Laberintos Urbanos,0.623,False
+americas,USA,Mixtos y Técnicos,hungaroring,Hungary,Laberintos Urbanos,0.623,False
+americas,USA,Mixtos y Técnicos,losail,Qatar,Carga Lateral Extrema,0.622,False
+miami,USA,Stop-and-Go,villeneuve,Canada,Stop-and-Go,0.621,True
+americas,USA,Mixtos y Técnicos,miami,USA,Stop-and-Go,0.618,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,villeneuve,Canada,Stop-and-Go,0.617,False
+rodriguez,Mexico,Laberintos Urbanos,sochi,Russia,Laberintos Urbanos,0.616,True
+nurburgring,Germany,Mixtos y Técnicos,rodriguez,Mexico,Laberintos Urbanos,0.616,False
+baku,Azerbaijan,Laberintos Urbanos,istanbul,Turkey,Mixtos y Técnicos,0.615,False
+americas,USA,Mixtos y Técnicos,zandvoort,Netherlands,Carga Lateral Extrema,0.614,False
+hungaroring,Hungary,Laberintos Urbanos,nurburgring,Germany,Mixtos y Técnicos,0.614,False
+americas,USA,Mixtos y Técnicos,monaco,Monaco,Laberintos Urbanos,0.613,False
+istanbul,Turkey,Mixtos y Técnicos,miami,USA,Stop-and-Go,0.613,False
+vegas,United States,Stop-and-Go,zandvoort,Netherlands,Carga Lateral Extrema,0.611,False
+bahrain,Bahrain,Mixtos y Técnicos,baku,Azerbaijan,Laberintos Urbanos,0.61,False
+miami,USA,Stop-and-Go,spa,Belgium,Carga Lateral Extrema,0.61,False
+losail,Qatar,Carga Lateral Extrema,marina_bay,Singapore,Laberintos Urbanos,0.61,False
+marina_bay,Singapore,Laberintos Urbanos,yas_marina,UAE,Stop-and-Go,0.606,False
+catalunya,Spain,Carga Lateral Extrema,marina_bay,Singapore,Laberintos Urbanos,0.605,False
+hungaroring,Hungary,Laberintos Urbanos,imola,Italy,Mixtos y Técnicos,0.601,False
+marina_bay,Singapore,Laberintos Urbanos,zandvoort,Netherlands,Carga Lateral Extrema,0.601,False
+miami,USA,Stop-and-Go,ricard,France,Mixtos y Técnicos,0.601,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,monza,Italy,Stop-and-Go,0.597,False
+imola,Italy,Mixtos y Técnicos,villeneuve,Canada,Stop-and-Go,0.597,False
+imola,Italy,Mixtos y Técnicos,sochi,Russia,Laberintos Urbanos,0.595,False
+spa,Belgium,Carga Lateral Extrema,suzuka,Japan,Carga Lateral Extrema,0.594,True
+albert_park,Australia,Stop-and-Go,sochi,Russia,Laberintos Urbanos,0.594,False
+bahrain,Bahrain,Mixtos y Técnicos,interlagos,Brazil,Mixtos y Técnicos,0.593,True
+bahrain,Bahrain,Mixtos y Técnicos,hungaroring,Hungary,Laberintos Urbanos,0.593,False
+americas,USA,Mixtos y Técnicos,jeddah,Saudi Arabia,Carga Lateral Extrema,0.593,False
+interlagos,Brazil,Mixtos y Técnicos,yas_marina,UAE,Stop-and-Go,0.591,False
+monza,Italy,Stop-and-Go,vegas,United States,Stop-and-Go,0.587,True
+miami,USA,Stop-and-Go,portimao,Portugal,Mixtos y Técnicos,0.587,False
+monaco,Monaco,Laberintos Urbanos,vegas,United States,Stop-and-Go,0.587,False
+baku,Azerbaijan,Laberintos Urbanos,zandvoort,Netherlands,Carga Lateral Extrema,0.585,False
+americas,USA,Mixtos y Técnicos,shanghai,China,Mixtos y Técnicos,0.584,True
+losail,Qatar,Carga Lateral Extrema,nurburgring,Germany,Mixtos y Técnicos,0.581,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,red_bull_ring,Austria,Stop-and-Go,0.581,False
+hockenheimring,Germany,Stop-and-Go,shanghai,China,Mixtos y Técnicos,0.581,False
+imola,Italy,Mixtos y Técnicos,rodriguez,Mexico,Laberintos Urbanos,0.581,False
+baku,Azerbaijan,Laberintos Urbanos,shanghai,China,Mixtos y Técnicos,0.579,False
+red_bull_ring,Austria,Stop-and-Go,vegas,United States,Stop-and-Go,0.579,True
+hungaroring,Hungary,Laberintos Urbanos,vegas,United States,Stop-and-Go,0.579,False
+albert_park,Australia,Stop-and-Go,portimao,Portugal,Mixtos y Técnicos,0.579,False
+rodriguez,Mexico,Laberintos Urbanos,spa,Belgium,Carga Lateral Extrema,0.576,False
+baku,Azerbaijan,Laberintos Urbanos,portimao,Portugal,Mixtos y Técnicos,0.576,False
+hungaroring,Hungary,Laberintos Urbanos,istanbul,Turkey,Mixtos y Técnicos,0.572,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,yas_marina,UAE,Stop-and-Go,0.569,False
+istanbul,Turkey,Mixtos y Técnicos,monaco,Monaco,Laberintos Urbanos,0.569,False
+baku,Azerbaijan,Laberintos Urbanos,silverstone,UK,Carga Lateral Extrema,0.568,False
+shanghai,China,Mixtos y Técnicos,spa,Belgium,Carga Lateral Extrema,0.562,False
+interlagos,Brazil,Mixtos y Técnicos,spa,Belgium,Carga Lateral Extrema,0.551,False
+istanbul,Turkey,Mixtos y Técnicos,jeddah,Saudi Arabia,Carga Lateral Extrema,0.549,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,spa,Belgium,Carga Lateral Extrema,0.549,True
+albert_park,Australia,Stop-and-Go,istanbul,Turkey,Mixtos y Técnicos,0.543,False
+marina_bay,Singapore,Laberintos Urbanos,portimao,Portugal,Mixtos y Técnicos,0.543,False
+albert_park,Australia,Stop-and-Go,losail,Qatar,Carga Lateral Extrema,0.54,False
+vegas,United States,Stop-and-Go,yas_marina,UAE,Stop-and-Go,0.539,True
+spa,Belgium,Carga Lateral Extrema,zandvoort,Netherlands,Carga Lateral Extrema,0.538,True
+interlagos,Brazil,Mixtos y Técnicos,zandvoort,Netherlands,Carga Lateral Extrema,0.535,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,rodriguez,Mexico,Laberintos Urbanos,0.535,False
+baku,Azerbaijan,Laberintos Urbanos,nurburgring,Germany,Mixtos y Técnicos,0.534,False
+imola,Italy,Mixtos y Técnicos,portimao,Portugal,Mixtos y Técnicos,0.53,True
+nurburgring,Germany,Mixtos y Técnicos,shanghai,China,Mixtos y Técnicos,0.529,True
+shanghai,China,Mixtos y Técnicos,zandvoort,Netherlands,Carga Lateral Extrema,0.526,False
+marina_bay,Singapore,Laberintos Urbanos,sochi,Russia,Laberintos Urbanos,0.524,True
+miami,USA,Stop-and-Go,shanghai,China,Mixtos y Técnicos,0.524,False
+hockenheimring,Germany,Stop-and-Go,sochi,Russia,Laberintos Urbanos,0.521,False
+bahrain,Bahrain,Mixtos y Técnicos,vegas,United States,Stop-and-Go,0.518,False
+nurburgring,Germany,Mixtos y Técnicos,suzuka,Japan,Carga Lateral Extrema,0.518,False
+losail,Qatar,Carga Lateral Extrema,sochi,Russia,Laberintos Urbanos,0.511,False
+losail,Qatar,Carga Lateral Extrema,shanghai,China,Mixtos y Técnicos,0.51,False
+albert_park,Australia,Stop-and-Go,spa,Belgium,Carga Lateral Extrema,0.51,False
+marina_bay,Singapore,Laberintos Urbanos,spa,Belgium,Carga Lateral Extrema,0.507,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,portimao,Portugal,Mixtos y Técnicos,0.506,False
+monaco,Monaco,Laberintos Urbanos,nurburgring,Germany,Mixtos y Técnicos,0.5,False
+albert_park,Australia,Stop-and-Go,nurburgring,Germany,Mixtos y Técnicos,0.496,False
+vegas,United States,Stop-and-Go,villeneuve,Canada,Stop-and-Go,0.491,True
+hungaroring,Hungary,Laberintos Urbanos,jeddah,Saudi Arabia,Carga Lateral Extrema,0.483,False
+sochi,Russia,Laberintos Urbanos,zandvoort,Netherlands,Carga Lateral Extrema,0.481,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,silverstone,UK,Carga Lateral Extrema,0.477,True
+americas,USA,Mixtos y Técnicos,vegas,United States,Stop-and-Go,0.476,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,shanghai,China,Mixtos y Técnicos,0.466,False
+miami,USA,Stop-and-Go,silverstone,UK,Carga Lateral Extrema,0.459,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,ricard,France,Mixtos y Técnicos,0.457,False
+albert_park,Australia,Stop-and-Go,hockenheimring,Germany,Stop-and-Go,0.45,True
+albert_park,Australia,Stop-and-Go,jeddah,Saudi Arabia,Carga Lateral Extrema,0.445,False
+hockenheimring,Germany,Stop-and-Go,ricard,France,Mixtos y Técnicos,0.44,False
+marina_bay,Singapore,Laberintos Urbanos,nurburgring,Germany,Mixtos y Técnicos,0.439,False
+imola,Italy,Mixtos y Técnicos,nurburgring,Germany,Mixtos y Técnicos,0.438,True
+istanbul,Turkey,Mixtos y Técnicos,villeneuve,Canada,Stop-and-Go,0.437,False
+albert_park,Australia,Stop-and-Go,zandvoort,Netherlands,Carga Lateral Extrema,0.437,False
+baku,Azerbaijan,Laberintos Urbanos,sochi,Russia,Laberintos Urbanos,0.427,True
+istanbul,Turkey,Mixtos y Técnicos,marina_bay,Singapore,Laberintos Urbanos,0.416,False
+silverstone,UK,Carga Lateral Extrema,vegas,United States,Stop-and-Go,0.412,False
+villeneuve,Canada,Stop-and-Go,zandvoort,Netherlands,Carga Lateral Extrema,0.404,False
+hockenheimring,Germany,Stop-and-Go,villeneuve,Canada,Stop-and-Go,0.401,True
+hockenheimring,Germany,Stop-and-Go,suzuka,Japan,Carga Lateral Extrema,0.384,False
+hockenheimring,Germany,Stop-and-Go,yas_marina,UAE,Stop-and-Go,0.379,True
+nurburgring,Germany,Mixtos y Técnicos,vegas,United States,Stop-and-Go,0.377,False
+jeddah,Saudi Arabia,Carga Lateral Extrema,sochi,Russia,Laberintos Urbanos,0.351,False
+ricard,France,Mixtos y Técnicos,vegas,United States,Stop-and-Go,0.345,False
+hockenheimring,Germany,Stop-and-Go,silverstone,UK,Carga Lateral Extrema,0.343,False
+istanbul,Turkey,Mixtos y Técnicos,vegas,United States,Stop-and-Go,0.334,False
+shanghai,China,Mixtos y Técnicos,vegas,United States,Stop-and-Go,0.329,False
+spa,Belgium,Carga Lateral Extrema,vegas,United States,Stop-and-Go,0.324,False
+hockenheimring,Germany,Stop-and-Go,spa,Belgium,Carga Lateral Extrema,0.311,False
+catalunya,Spain,Carga Lateral Extrema,hockenheimring,Germany,Stop-and-Go,0.309,False
+miami,USA,Stop-and-Go,sochi,Russia,Laberintos Urbanos,0.287,False
+istanbul,Turkey,Mixtos y Técnicos,shanghai,China,Mixtos y Técnicos,0.27,True
+hockenheimring,Germany,Stop-and-Go,monaco,Monaco,Laberintos Urbanos,0.226,False
+hockenheimring,Germany,Stop-and-Go,hungaroring,Hungary,Laberintos Urbanos,0.221,False
+hockenheimring,Germany,Stop-and-Go,monza,Italy,Stop-and-Go,0.203,True
+hockenheimring,Germany,Stop-and-Go,imola,Italy,Mixtos y Técnicos,0.186,False
+bahrain,Bahrain,Mixtos y Técnicos,hockenheimring,Germany,Stop-and-Go,0.183,False
+portimao,Portugal,Mixtos y Técnicos,vegas,United States,Stop-and-Go,0.18,False
+hockenheimring,Germany,Stop-and-Go,marina_bay,Singapore,Laberintos Urbanos,0.17,False
+baku,Azerbaijan,Laberintos Urbanos,hockenheimring,Germany,Stop-and-Go,0.16,False
+americas,USA,Mixtos y Técnicos,hockenheimring,Germany,Stop-and-Go,0.159,False
+hockenheimring,Germany,Stop-and-Go,red_bull_ring,Austria,Stop-and-Go,0.137,True
+hockenheimring,Germany,Stop-and-Go,rodriguez,Mexico,Laberintos Urbanos,0.131,False
+hockenheimring,Germany,Stop-and-Go,losail,Qatar,Carga Lateral Extrema,0.125,False
+hockenheimring,Germany,Stop-and-Go,istanbul,Turkey,Mixtos y Técnicos,0.117,False
+hockenheimring,Germany,Stop-and-Go,interlagos,Brazil,Mixtos y Técnicos,0.112,False
+hockenheimring,Germany,Stop-and-Go,portimao,Portugal,Mixtos y Técnicos,0.063,False
+hockenheimring,Germany,Stop-and-Go,zandvoort,Netherlands,Carga Lateral Extrema,0.007,False
+hockenheimring,Germany,Stop-and-Go,nurburgring,Germany,Mixtos y Técnicos,-0.009,False
+sochi,Russia,Laberintos Urbanos,vegas,United States,Stop-and-Go,-0.031,False
+hockenheimring,Germany,Stop-and-Go,miami,USA,Stop-and-Go,-0.136,True
+hockenheimring,Germany,Stop-and-Go,vegas,United States,Stop-and-Go,-0.213,True
+hockenheimring,Germany,Stop-and-Go,jeddah,Saudi Arabia,Carga Lateral Extrema,-0.228,False

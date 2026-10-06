@@ -1,0 +1,32 @@
+id_circuito,nombre_circuito,pais,longitud_km,cantidad_curvas,densidad_curvas_por_km,fuente
+albert_park,Albert Park Grand Prix Circuit,Australia,5.278,14,2.65,Certificados Oficiales de Homologación FIA / Formula1.com
+imola,Autodromo Enzo e Dino Ferrari,Italy,4.909,19,3.87,Certificados Oficiales de Homologación FIA / Formula1.com
+rodriguez,Autodromo Hermanos Rodriguez,Mexico,4.304,17,3.95,Certificados Oficiales de Homologación FIA / Formula1.com
+portimao,Autodromo Internacional do Algarve,Portugal,4.653,15,3.22,Certificados Oficiales de Homologación FIA / Formula1.com
+mugello,Autodromo Internazionale del Mugello,Italy,5.245,14,2.67,Certificados Oficiales de Homologación FIA / Formula1.com
+interlagos,Autodromo Jose Carlos Pace,Brazil,4.309,15,3.48,Certificados Oficiales de Homologación FIA / Formula1.com
+monza,Autodromo Nazionale di Monza,Italy,5.793,11,1.9,Certificados Oficiales de Homologación FIA / Formula1.com
+bahrain,Bahrain International Circuit,Bahrain,5.412,15,2.77,Certificados Oficiales de Homologación FIA / Formula1.com
+baku,Baku City Circuit,Azerbaijan,6.003,20,3.33,Certificados Oficiales de Homologación FIA / Formula1.com
+villeneuve,Circuit Gilles Villeneuve,Canada,4.361,14,3.21,Certificados Oficiales de Homologación FIA / Formula1.com
+zandvoort,Circuit Park Zandvoort,Netherlands,4.259,14,3.29,Certificados Oficiales de Homologación FIA / Formula1.com
+ricard,Circuit Paul Ricard,France,5.842,15,2.57,Certificados Oficiales de Homologación FIA / Formula1.com
+catalunya,Circuit de Barcelona-Catalunya,Spain,4.657,14,3.01,Certificados Oficiales de Homologación FIA / Formula1.com
+monaco,Circuit de Monaco,Monaco,3.337,19,5.69,Certificados Oficiales de Homologación FIA / Formula1.com
+spa,Circuit de Spa-Francorchamps,Belgium,7.004,19,2.71,Certificados Oficiales de Homologación FIA / Formula1.com
+americas,Circuit of the Americas,USA,5.513,20,3.63,Certificados Oficiales de Homologación FIA / Formula1.com
+hockenheimring,Hockenheimring,Germany,4.574,17,3.72,Certificados Oficiales de Homologación FIA / Formula1.com
+hungaroring,Hungaroring,Hungary,4.381,14,3.2,Certificados Oficiales de Homologación FIA / Formula1.com
+istanbul,Istanbul Park,Turkey,5.338,14,2.62,Certificados Oficiales de Homologación FIA / Formula1.com
+jeddah,Jeddah Corniche Circuit,Saudi Arabia,6.174,27,4.37,Certificados Oficiales de Homologación FIA / Formula1.com
+vegas,Las Vegas Strip Street Circuit,United States,6.201,17,2.74,Certificados Oficiales de Homologación FIA / Formula1.com
+losail,Losail International Circuit,Qatar,5.419,16,2.95,Certificados Oficiales de Homologación FIA / Formula1.com
+marina_bay,Marina Bay Street Circuit,Singapore,4.94,19,3.85,Certificados Oficiales de Homologación FIA / Formula1.com
+miami,Miami International Autodrome,USA,5.412,19,3.51,Certificados Oficiales de Homologación FIA / Formula1.com
+nurburgring,Nurburgring,Germany,5.148,15,2.91,Certificados Oficiales de Homologación FIA / Formula1.com
+red_bull_ring,Red Bull Ring,Austria,4.318,10,2.32,Certificados Oficiales de Homologación FIA / Formula1.com
+shanghai,Shanghai International Circuit,China,5.451,16,2.94,Certificados Oficiales de Homologación FIA / Formula1.com
+silverstone,Silverstone Circuit,UK,5.891,18,3.06,Certificados Oficiales de Homologación FIA / Formula1.com
+sochi,Sochi Autodrom,Russia,5.848,18,3.08,Certificados Oficiales de Homologación FIA / Formula1.com
+suzuka,Suzuka Circuit,Japan,5.807,18,3.1,Certificados Oficiales de Homologación FIA / Formula1.com
+yas_marina,Yas Marina Circuit,UAE,5.281,16,3.03,Certificados Oficiales de Homologación FIA / Formula1.com

@@ -1,0 +1,32 @@
+id_circuito,nombre_circuito,pais,familia_id,familia_nombre,full_throttle_pct,asphalt_abrasion,braking_severity
+spa,Circuit de Spa-Francorchamps,Belgium,0,Carga Lateral Extrema,70,4,4
+silverstone,Silverstone Circuit,UK,0,Carga Lateral Extrema,70,5,2
+catalunya,Circuit de Barcelona-Catalunya,Spain,0,Carga Lateral Extrema,65,4,3
+suzuka,Suzuka Circuit,Japan,0,Carga Lateral Extrema,66,5,2
+jeddah,Jeddah Corniche Circuit,Saudi Arabia,0,Carga Lateral Extrema,79,2,3
+zandvoort,Circuit Park Zandvoort,Netherlands,0,Carga Lateral Extrema,65,5,3
+losail,Losail International Circuit,Qatar,0,Carga Lateral Extrema,68,5,3
+mugello,Autodromo Internazionale del Mugello,Italy,0,Carga Lateral Extrema,67,4,3
+monza,Autodromo Nazionale di Monza,Italy,1,Stop-and-Go,76,3,5
+red_bull_ring,Red Bull Ring,Austria,1,Stop-and-Go,72,3,4
+albert_park,Albert Park Grand Prix Circuit,Australia,1,Stop-and-Go,68,2,4
+yas_marina,Yas Marina Circuit,UAE,1,Stop-and-Go,62,3,4
+miami,Miami International Autodrome,USA,1,Stop-and-Go,58,2,4
+vegas,Las Vegas Strip Street Circuit,United States,1,Stop-and-Go,78,1,4
+villeneuve,Circuit Gilles Villeneuve,Canada,1,Stop-and-Go,60,2,5
+hockenheimring,Hockenheimring,Germany,1,Stop-and-Go,65,3,4
+interlagos,Autódromo José Carlos Pace,Brazil,2,Mixtos y Técnicos,68,3,3
+bahrain,Bahrain International Circuit,Bahrain,2,Mixtos y Técnicos,64,5,4
+americas,Circuit of the Americas,USA,2,Mixtos y Técnicos,58,4,4
+imola,Autodromo Enzo e Dino Ferrari,Italy,2,Mixtos y Técnicos,71,3,3
+shanghai,Shanghai International Circuit,China,2,Mixtos y Técnicos,56,3,4
+ricard,Circuit Paul Ricard,France,2,Mixtos y Técnicos,68,3,3
+nurburgring,Nürburgring,Germany,2,Mixtos y Técnicos,62,3,3
+portimao,Autódromo Internacional do Algarve,Portugal,2,Mixtos y Técnicos,64,3,3
+istanbul,Istanbul Park,Turkey,2,Mixtos y Técnicos,69,4,3
+monaco,Circuit de Monaco,Monaco,3,Laberintos Urbanos,34,1,2
+baku,Baku City Circuit,Azerbaijan,3,Laberintos Urbanos,56,1,5
+hungaroring,Hungaroring,Hungary,3,Laberintos Urbanos,55,2,3
+marina_bay,Marina Bay Street Circuit,Singapore,3,Laberintos Urbanos,48,2,4
+rodriguez,Autódromo Hermanos Rodríguez,Mexico,3,Laberintos Urbanos,50,2,4
+sochi,Sochi Autodrom,Russia,3,Laberintos Urbanos,60,1,4

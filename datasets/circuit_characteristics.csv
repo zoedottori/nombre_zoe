@@ -1,0 +1,32 @@
+circuitId,circuitName,country,length_km,turns,slow_turns,medium_turns,fast_turns,longest_straight_m,full_throttle_pct,asphalt_abrasion,asphalt_grip,downforce_level,tyre_stress,braking_severity
+monaco,Circuit de Monaco,Monaco,3.337,19,11,6,2,510,34,1,1,Maximum,1,2
+monza,Autodromo Nazionale di Monza,Italy,5.793,11,4,3,4,1120,76,3,3,Low,3,5
+spa,Circuit de Spa-Francorchamps,Belgium,7.004,19,4,7,8,2015,70,4,4,Medium,5,4
+silverstone,Silverstone Circuit,UK,5.891,18,3,6,9,770,70,5,4,High,5,2
+baku,Baku City Circuit,Azerbaijan,6.003,20,10,7,3,2220,56,1,2,Low,2,5
+catalunya,Circuit de Barcelona-Catalunya,Spain,4.657,14,3,6,5,1047,65,4,3,High,4,3
+hungaroring,Hungaroring,Hungary,4.381,14,6,6,2,790,55,2,3,Maximum,3,3
+red_bull_ring,Red Bull Ring,Austria,4.318,10,3,4,3,868,72,3,3,Low,3,4
+interlagos,Autódromo José Carlos Pace,Brazil,4.309,15,5,6,4,1050,68,3,3,Medium,3,3
+albert_park,Albert Park Grand Prix Circuit,Australia,5.278,14,4,5,5,840,68,2,2,Medium,3,4
+bahrain,Bahrain International Circuit,Bahrain,5.412,15,5,5,5,1090,64,5,3,Medium,4,4
+marina_bay,Marina Bay Street Circuit,Singapore,4.940,19,9,8,2,832,48,2,2,Maximum,2,4
+suzuka,Suzuka Circuit,Japan,5.807,18,3,7,8,900,66,5,4,High,5,2
+americas,Circuit of the Americas,USA,5.513,20,6,8,6,1200,58,4,3,High,4,4
+rodriguez,Autódromo Hermanos Rodríguez,Mexico,4.304,17,7,6,4,1200,50,2,2,Maximum,2,4
+yas_marina,Yas Marina Circuit,UAE,5.281,16,6,6,4,1200,62,3,3,Medium,3,4
+jeddah,Jeddah Corniche Circuit,Saudi Arabia,6.174,27,4,10,13,1000,79,2,4,Medium,4,3
+miami,Miami International Autodrome,USA,5.412,19,6,7,6,1280,58,2,2,Medium,3,4
+zandvoort,Circuit Park Zandvoort,Netherlands,4.259,14,3,5,6,678,65,5,4,High,5,3
+losail,Losail International Circuit,Qatar,5.419,16,2,8,6,1068,68,5,4,High,5,3
+vegas,Las Vegas Strip Street Circuit,United States,6.201,17,7,6,4,1900,78,1,1,Low,2,4
+villeneuve,Circuit Gilles Villeneuve,Canada,4.361,14,6,4,4,1064,60,2,2,Low,2,5
+imola,Autodromo Enzo e Dino Ferrari,Italy,4.909,19,5,8,6,550,71,3,3,High,3,3
+shanghai,Shanghai International Circuit,China,5.451,16,5,6,5,1170,56,3,3,High,4,4
+ricard,Circuit Paul Ricard,France,5.842,15,4,6,5,1000,68,3,3,Medium,3,3
+sochi,Sochi Autodrom,Russia,5.848,18,8,7,3,1029,60,1,2,Medium,2,4
+hockenheimring,Hockenheimring,Germany,4.574,17,6,6,5,1000,65,3,3,Medium,3,4
+mugello,Autodromo Internazionale del Mugello,Italy,5.245,14,2,5,7,1141,67,4,4,High,5,3
+nurburgring,Nürburgring,Germany,5.148,15,5,6,4,800,62,3,3,Medium,3,3
+portimao,Autódromo Internacional do Algarve,Portugal,4.653,15,4,5,6,969,64,3,2,Medium,4,3
+istanbul,Istanbul Park,Turkey,5.338,14,4,5,5,1200,69,4,3,High,5,3
